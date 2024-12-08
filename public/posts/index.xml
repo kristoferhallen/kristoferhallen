@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kristofer Hallén</title>
+    <link>https://kristoferhallen.com/posts/</link>
+    <description>Recent content in Posts on Kristofer Hallén</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://kristoferhallen.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Death to the program! Long live the project.</title>
+      <link>https://kristoferhallen.com/posts/deathtotheprogram/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://kristoferhallen.com/posts/deathtotheprogram/</guid>
+      
+      <description>&lt;p&gt;Maybe a niche thing to reflect on, but some software companies went from projects to programs. Why start projects all the time, let&amp;rsquo;s just define a never ending project and call it program. In many cases I don&amp;rsquo;t think it works very well.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Programs get the wrong focus. A project exist to deliver a value before a deadline. A program does not have specific deliverables or deadlines. They can have it for activities that are part of the program but the program leadership do not own the responsibility for delivering on time and they tend to instead focus on being busy. Focus tends to go from flow optimization to resource optimization.&lt;/li&gt;
+&lt;li&gt;Programs never end which means that you don&amp;rsquo;t get natural points when you hopefully celebrate achievements. You also don&amp;rsquo;t get the natural times to reflect, recover and clean up. You are always busy (see the point above.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Programs can probably be a good tool when you have a predictable process that you want to run over and over again, usually with similar outputs. This is however not what software developent looks like.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Does is matter if I call it a PoC or MVP?</title>
+      <link>https://kristoferhallen.com/posts/doesnamingmatter/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://kristoferhallen.com/posts/doesnamingmatter/</guid>
+      
+      <description>&lt;p&gt;In software development we run Proof of Concepts (PoCs), do Minimum Viable Products (MVPs), use DevOps and many other activities that have names that are more or less well defined. So when I want to get something done, does it matter what I call it? Yes! Or a longer answer, Yes, it matters in the context where other people interact with your activity, people that finance it, use the output or might fight against it.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>How long is a Poc?</title>
+      <link>https://kristoferhallen.com/posts/poclength/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://kristoferhallen.com/posts/poclength/</guid>
+      
+      <description>&lt;p&gt;In software development many do proof of concepts (&lt;a href=&#34;https://en.wikipedia.org/wiki/Proof_of_concept#Software_development&#34;&gt;PoC&lt;/a&gt;), &amp;ldquo;a realization of a certain idea, method or principle in order to demonstrate its feasibility, or viability, or a demonstration in principle with the aim of verifying that some concept or theory has practical potential.&amp;rdquo; In this post I wanted to get an understanding of if there is some kind of de facto agreement on the lenght of PoCs. (Part of trying to answer the question &lt;a href=&#34;https://kristoferhallen.com/tags/howfastisfast/&#34;&gt;How fast is fast in software development?&lt;/a&gt;) Why? In many organisations I have seen the term PoC being used for long projects (months, years) and I think there is a value in having a common understanding in terms that we use, such as PoCs. Otherwise you might have very different expectations on the activity.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Death to the software pipeline!</title>
+      <link>https://kristoferhallen.com/posts/deathtothesoftwarepipeline/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://kristoferhallen.com/posts/deathtothesoftwarepipeline/</guid>
+      
+      <description>&lt;p&gt;CI pipelines, CD pipelines, devops pipelines, why do we talk so much about pipelines?&lt;/p&gt;
+&lt;p&gt;A recent discussion on LinkedIn, along with an example from my own work, made me realize something: we need to stop obsessing over the “pipelines” themselves! The issue is that when we focus on the pipeline we forget about why we have them, to automate the value adding activities we want to run before deploying or shipping. If teams focus more on pipeline engine selection and logic than what you actually want to do in the pipeline you focus on the wrong things.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>How not to get stuck with solutions to problems you helped fix</title>
+      <link>https://kristoferhallen.com/posts/technicalleaderadvice/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://kristoferhallen.com/posts/technicalleaderadvice/</guid>
+      
+      <description>&lt;p&gt;As a senior developer or technical leader, you are often called in to solve urgent problems. There&amp;rsquo;s nothing inherently wrong with that—it’s often part of your job description. However, after fixing the immediate issue, there&amp;rsquo;s a risk that you get drawn into a continuous cycle of improving that area. You’ve resolved a critical problem and are now seen as a key person for that domain, and this pattern repeats as you get pulled into other firefighting activities.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>My motivation for blogging</title>
+      <link>https://kristoferhallen.com/posts/whyiwrite/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://kristoferhallen.com/posts/whyiwrite/</guid>
+      
+      <description>&lt;p&gt;Why do I write this blog?&lt;/p&gt;
+&lt;p&gt;To help myself think. Improve my reasoning. Test ideas.&lt;/p&gt;
+&lt;p&gt;To improve my writing. Writing is an important way of communication as a technical leader.&lt;/p&gt;
+&lt;p&gt;And maybe it is useful for someone else.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Zeno´s migration</title>
+      <link>https://kristoferhallen.com/posts/migrations/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://kristoferhallen.com/posts/migrations/</guid>
+      
+      <description>&lt;p&gt;Migrations, changing technology like tools, libraries or bigger solutions, are sometimes straight forward, clearly define the starting and end point, plan and execute. But in more complex systems I see a tendency for migrations to fail when the plan is to &amp;ldquo;go from A to B&amp;rdquo; migration. System could be complex from a code or intergratin size perspective of view but even if it is a smaller technical migration complexity can be added also from organisational point of view, many people involved with different processes and different priorities. In those large system contexts we find problems like:&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

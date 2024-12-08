@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technicalleader on Kristofer Hallén</title>
+    <link>https://kristoferhallen.com/tags/technicalleader/</link>
+    <description>Recent content in Technicalleader on Kristofer Hallén</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://kristoferhallen.com/tags/technicalleader/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How not to get stuck with solutions to problems you helped fix</title>
+      <link>https://kristoferhallen.com/posts/technicalleaderadvice/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://kristoferhallen.com/posts/technicalleaderadvice/</guid>
+      
+      <description>&lt;p&gt;As a senior developer or technical leader, you are often called in to solve urgent problems. There&amp;rsquo;s nothing inherently wrong with that—it’s often part of your job description. However, after fixing the immediate issue, there&amp;rsquo;s a risk that you get drawn into a continuous cycle of improving that area. You’ve resolved a critical problem and are now seen as a key person for that domain, and this pattern repeats as you get pulled into other firefighting activities.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on Kristofer Hallén</title>
+    <link>https://kristoferhallen.com/tags/devops/</link>
+    <description>Recent content in DevOps on Kristofer Hallén</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://kristoferhallen.com/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Does is matter if I call it a PoC or MVP?</title>
+      <link>https://kristoferhallen.com/posts/doesnamingmatter/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://kristoferhallen.com/posts/doesnamingmatter/</guid>
+      
+      <description>&lt;p&gt;In software development we run Proof of Concepts (PoCs), do Minimum Viable Products (MVPs), use DevOps and many other activities that have names that are more or less well defined. So when I want to get something done, does it matter what I call it? Yes! Or a longer answer, Yes, it matters in the context where other people interact with your activity, people that finance it, use the output or might fight against it.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
