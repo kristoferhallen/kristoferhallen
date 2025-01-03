@@ -6,7 +6,20 @@
     <description>Recent content on Kristofer Hallén</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internal development platform principles</title>
+      <link>http://localhost:1313/posts/idpprinciples/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/idpprinciples/</guid>
+      
+      <description>&lt;p&gt;Reflections on internal development platform (IDP) development.&lt;/p&gt;
+&lt;h1 id=&#34;solve-user-problems-dont-build-perfect-tools&#34;&gt;Solve user problems, don’t build perfect tools&lt;/h1&gt;
+&lt;p&gt;There is a risk in focusing too much on building the &amp;ldquo;perfect&amp;rdquo; tool while neglecting deployment and user experience. As an internal team, you have the unique advantage of direct access to your users. Leverage this proximity: collaborate closely with them, understand their needs, create solutions, deploy quickly, gather feedback, and iterate. Your mission is to deliver a great user experience that aligns with and supports the company’s mission.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>What is (software) architecture</title>
       <link>http://localhost:1313/posts/whatissoftwarearchitecture/</link>
