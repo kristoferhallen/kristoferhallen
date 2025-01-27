@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project on Kristofer Hallén</title>
-    <link>http://localhost:1313/tags/project/</link>
+    <link>https://kristoferhallen.com/tags/project/</link>
     <description>Recent content in Project on Kristofer Hallén</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://kristoferhallen.com/tags/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Death to the program! Long live the project.</title>
-      <link>http://localhost:1313/posts/deathtotheprogram/</link>
+      <link>https://kristoferhallen.com/posts/deathtotheprogram/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/deathtotheprogram/</guid>
+      <guid>https://kristoferhallen.com/posts/deathtotheprogram/</guid>
       
       <description>&lt;p&gt;Maybe a niche thing to reflect on, but some software companies went from projects to programs. Why start projects all the time, let&amp;rsquo;s just define a never ending project and call it program. In many cases I don&amp;rsquo;t think it works very well.&lt;/p&gt;
 &lt;ul&gt;
