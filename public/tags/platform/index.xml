@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Platform on Kristofer Hallén</title>
-    <link>https://kristoferhallen.com/tags/platform/</link>
+    <link>http://localhost:1313/tags/platform/</link>
     <description>Recent content in Platform on Kristofer Hallén</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kristoferhallen.com/tags/platform/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/platform/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Internal development platform principles</title>
-      <link>https://kristoferhallen.com/posts/idpprinciples/</link>
+      <link>http://localhost:1313/posts/idpprinciples/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/posts/idpprinciples/</guid>
+      <guid>http://localhost:1313/posts/idpprinciples/</guid>
       
       <description>&lt;p&gt;Reflections on internal development platform (IDP) development.&lt;/p&gt;
 &lt;h1 id=&#34;solve-user-problems-dont-build-perfect-tools&#34;&gt;Solve user problems, don’t build perfect tools&lt;/h1&gt;

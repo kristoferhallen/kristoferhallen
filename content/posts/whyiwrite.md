@@ -2,7 +2,7 @@
 title: 'My motivation for blogging'
 date: 2024-10-06
 draft: false
-tags: []
+tags: ["blogging"]
 ---
 Why do I write this blog? 
 

@@ -2,270 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kristofer Hallén</title>
-    <link>https://kristoferhallen.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Kristofer Hallén</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kristoferhallen.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Devops</title>
-      <link>https://kristoferhallen.com/tags/devops/</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <title>Blogging</title>
+      <link>http://localhost:1313/tags/blogging/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/devops/</guid>
+      <guid>http://localhost:1313/tags/blogging/</guid>
       
       <description></description>
       
     </item>
     
     <item>
-      <title>Software Engineering</title>
-      <link>https://kristoferhallen.com/tags/software-engineering/</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <title>Scale Up</title>
+      <link>http://localhost:1313/tags/scale-up/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/software-engineering/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Waterfall</title>
-      <link>https://kristoferhallen.com/tags/waterfall/</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/waterfall/</guid>
+      <guid>http://localhost:1313/tags/scale-up/</guid>
       
       <description></description>
       
     </item>
     
     <item>
-      <title>Accelerate</title>
-      <link>https://kristoferhallen.com/tags/accelerate/</link>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <title>Software Development</title>
+      <link>http://localhost:1313/tags/software-development/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/accelerate/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Gene Kim</title>
-      <link>https://kristoferhallen.com/tags/gene-kim/</link>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/gene-kim/</guid>
+      <guid>http://localhost:1313/tags/software-development/</guid>
       
       <description></description>
       
     </item>
     
     <item>
-      <title>Idp</title>
-      <link>https://kristoferhallen.com/tags/idp/</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <title>Chesterton</title>
+      <link>http://localhost:1313/tags/chesterton/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/idp/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Platform</title>
-      <link>https://kristoferhallen.com/tags/platform/</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/platform/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Principles</title>
-      <link>https://kristoferhallen.com/tags/principles/</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/principles/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Architecture</title>
-      <link>https://kristoferhallen.com/tags/architecture/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/architecture/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Martin Fowler</title>
-      <link>https://kristoferhallen.com/tags/martin-fowler/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/martin-fowler/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Systemization</title>
-      <link>https://kristoferhallen.com/tags/systemization/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/systemization/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Celebrate</title>
-      <link>https://kristoferhallen.com/tags/celebrate/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/celebrate/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Program</title>
-      <link>https://kristoferhallen.com/tags/program/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/program/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Project</title>
-      <link>https://kristoferhallen.com/tags/project/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/project/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Rest</title>
-      <link>https://kristoferhallen.com/tags/rest/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/rest/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>MVP</title>
-      <link>https://kristoferhallen.com/tags/mvp/</link>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/mvp/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>PoC</title>
-      <link>https://kristoferhallen.com/tags/poc/</link>
-      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/poc/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Howfastisfast</title>
-      <link>https://kristoferhallen.com/tags/howfastisfast/</link>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/howfastisfast/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>CI Pipeline</title>
-      <link>https://kristoferhallen.com/tags/ci-pipeline/</link>
-      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/ci-pipeline/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Software Pipeline</title>
-      <link>https://kristoferhallen.com/tags/software-pipeline/</link>
-      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/software-pipeline/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Software Testing</title>
-      <link>https://kristoferhallen.com/tags/software-testing/</link>
-      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/software-testing/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Advice</title>
-      <link>https://kristoferhallen.com/tags/advice/</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/advice/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Firefighting</title>
-      <link>https://kristoferhallen.com/tags/firefighting/</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/firefighting/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Technicalleader</title>
-      <link>https://kristoferhallen.com/tags/technicalleader/</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/technicalleader/</guid>
+      <guid>http://localhost:1313/tags/chesterton/</guid>
       
       <description></description>
       
@@ -273,10 +53,274 @@
     
     <item>
       <title>Migration</title>
-      <link>https://kristoferhallen.com/tags/migration/</link>
-      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/migration/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/migration/</guid>
+      <guid>http://localhost:1313/tags/migration/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>http://localhost:1313/tags/devops/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/devops/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>http://localhost:1313/tags/software-engineering/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/software-engineering/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Waterfall</title>
+      <link>http://localhost:1313/tags/waterfall/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/waterfall/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Accelerate</title>
+      <link>http://localhost:1313/tags/accelerate/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/accelerate/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gene Kim</title>
+      <link>http://localhost:1313/tags/gene-kim/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/gene-kim/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Idp</title>
+      <link>http://localhost:1313/tags/idp/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/idp/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Platform</title>
+      <link>http://localhost:1313/tags/platform/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/platform/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Principles</title>
+      <link>http://localhost:1313/tags/principles/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/principles/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Architecture</title>
+      <link>http://localhost:1313/tags/architecture/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/architecture/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Martin Fowler</title>
+      <link>http://localhost:1313/tags/martin-fowler/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/martin-fowler/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Systemization</title>
+      <link>http://localhost:1313/tags/systemization/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/systemization/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Celebrate</title>
+      <link>http://localhost:1313/tags/celebrate/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/celebrate/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Program</title>
+      <link>http://localhost:1313/tags/program/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/program/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>http://localhost:1313/tags/project/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/project/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rest</title>
+      <link>http://localhost:1313/tags/rest/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/rest/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MVP</title>
+      <link>http://localhost:1313/tags/mvp/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/mvp/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PoC</title>
+      <link>http://localhost:1313/tags/poc/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/poc/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Howfastisfast</title>
+      <link>http://localhost:1313/tags/howfastisfast/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/howfastisfast/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CI Pipeline</title>
+      <link>http://localhost:1313/tags/ci-pipeline/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ci-pipeline/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Software Pipeline</title>
+      <link>http://localhost:1313/tags/software-pipeline/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/software-pipeline/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Software Testing</title>
+      <link>http://localhost:1313/tags/software-testing/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/software-testing/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Advice</title>
+      <link>http://localhost:1313/tags/advice/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/advice/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Firefighting</title>
+      <link>http://localhost:1313/tags/firefighting/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/firefighting/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Technicalleader</title>
+      <link>http://localhost:1313/tags/technicalleader/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/technicalleader/</guid>
       
       <description></description>
       

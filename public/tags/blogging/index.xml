@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogging on Kristofer Hallén</title>
+    <link>http://localhost:1313/tags/blogging/</link>
+    <description>Recent content in Blogging on Kristofer Hallén</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I write 2</title>
+      <link>http://localhost:1313/posts/whyiwrite2/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/whyiwrite2/</guid>
+      
+      <description>&lt;p&gt;When I started this blog I said that I want to do it mostly &lt;a href=&#34;https://kristoferhallen.com/posts/whyiwrite/&#34;&gt;for myself&lt;/a&gt;. Andy Hawthorne says something similar, &lt;a href=&#34;https://andysblog.uk/why-blog-if-nobody-reads-it&#34;&gt;Why Blog If Nobody Reads It?&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Like blogging. You write because you think, because you observe, because you need to put it somewhere.
+If someone reads it? Bonus. If not? The work still got done.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;And after reading &lt;a href=&#34;https://xuanwo.io/links/2025/01/link-blog/&#34;&gt;Build a link blog&lt;/a&gt; I want to add that I could use the blog as a way to remember good links and what I was thinking when reading them.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>My motivation for blogging</title>
+      <link>http://localhost:1313/posts/whyiwrite/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/whyiwrite/</guid>
+      
+      <description>&lt;p&gt;Why do I write this blog?&lt;/p&gt;
+&lt;p&gt;To help myself think. Improve my reasoning. Test ideas.&lt;/p&gt;
+&lt;p&gt;To improve my writing. Writing is an important way of communication as a technical leader.&lt;/p&gt;
+&lt;p&gt;And maybe it is useful for someone else.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

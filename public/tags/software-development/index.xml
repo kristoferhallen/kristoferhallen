@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Development on Kristofer Hallén</title>
+    <link>http://localhost:1313/tags/software-development/</link>
+    <description>Recent content in Software Development on Kristofer Hallén</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/software-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book review: Ask your developer</title>
+      <link>http://localhost:1313/posts/askyourdeveloper/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/askyourdeveloper/</guid>
+      
+      <description>&lt;p&gt;&lt;img alt=&#34;Ask your developer book cover&#34; src=&#34;http://localhost:1313/askyourdeveloper.jpg#floatleft&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century by Jeff Lawson was the book that influenced me the most last year. The book is about how to run a software development company and the main theme is what the title says, use your developers competence and problems solving competence instead of giving them detailed descriptions of what to do. Give them problems that you want them to solve. This does not mean that everyone does whatever they want, the company needs to set the direction, the focus and the guardrails. My main takeaways:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Why I write 2</title>
+      <link>http://localhost:1313/posts/whyiwrite2/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/whyiwrite2/</guid>
+      
+      <description>&lt;p&gt;When I started this blog I said that I want to do it mostly &lt;a href=&#34;https://kristoferhallen.com/posts/whyiwrite/&#34;&gt;for myself&lt;/a&gt;. Andy Hawthorne says something similar, &lt;a href=&#34;https://andysblog.uk/why-blog-if-nobody-reads-it&#34;&gt;Why Blog If Nobody Reads It?&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Like blogging. You write because you think, because you observe, because you need to put it somewhere.
+If someone reads it? Bonus. If not? The work still got done.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;And after reading &lt;a href=&#34;https://xuanwo.io/links/2025/01/link-blog/&#34;&gt;Build a link blog&lt;/a&gt; I want to add that I could use the blog as a way to remember good links and what I was thinking when reading them.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
