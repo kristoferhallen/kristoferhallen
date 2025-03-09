@@ -2,29 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kristofer Hallén</title>
-    <link>http://localhost:1313/</link>
+    <link>https://kristoferhallen.com/</link>
     <description>Recent content on Kristofer Hallén</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kristoferhallen.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Events in CICD</title>
+      <link>https://kristoferhallen.com/posts/eventsincicd/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://kristoferhallen.com/posts/eventsincicd/</guid>
+      
+      <description>&lt;p&gt;What do you do when you have a large scale setup of build, integration, test and release pipelines that continuously evolve?&lt;/p&gt;
+&lt;p&gt;At Ericsson, we have used events in CI/CD for many years (&lt;a href=&#34;https://www.ericsson.com/en/blog/2022/11/software-production-event-driven-architectures&#34;&gt;Ericsson blog post&lt;/a&gt;). This approach gives us valuable flexibility — we can quickly adapt CI/CD pipelines to meet new product requirements. Whether it’s setting up a new integration pipeline for a product variant, reusing test results from another pipeline, or triggering pipelines based on upstream results, event-driven architectures make it (relatively) easy.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>What’s Slowing You Down? Diving into Lead Time for Changes</title>
+      <link>https://kristoferhallen.com/posts/capabilitytomakechanges/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://kristoferhallen.com/posts/capabilitytomakechanges/</guid>
+      
+      <description>&lt;p&gt;When assessing how to measure the effectiveness of a development organization, one useful metric is &amp;ldquo;how quickly can we make a change?&amp;rdquo; This idea is not new—DORA metrics, for example, include &amp;ldquo;Lead Time for Changes.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;While we didn’t go into detailed definitions, we considered lead time as the duration from identifying a need to having a solution deployed and in use. I wanted to explore what factors influence this measurement and what we should focus on if we want to improve it.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Book review: Ask your developer</title>
-      <link>http://localhost:1313/posts/askyourdeveloper/</link>
+      <link>https://kristoferhallen.com/posts/askyourdeveloper/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/askyourdeveloper/</guid>
+      <guid>https://kristoferhallen.com/posts/askyourdeveloper/</guid>
       
-      <description>&lt;p&gt;&lt;img alt=&#34;Ask your developer book cover&#34; src=&#34;http://localhost:1313/askyourdeveloper.jpg#floatleft&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;Ask your developer book cover&#34; src=&#34;https://kristoferhallen.com/askyourdeveloper.jpg#floatleft&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century by Jeff Lawson was the book that influenced me the most last year. It is about how to run a software development company and the main theme is what the title says, use your developers competence and problems solving competence. Give them problems that you want them to solve instead of  detailed descriptions of what to do. This does not mean that everyone does whatever they want, the company needs to set the direction, the focus and the guardrails. My main takeaways:&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Why I write 2</title>
-      <link>http://localhost:1313/posts/whyiwrite2/</link>
+      <link>https://kristoferhallen.com/posts/whyiwrite2/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/whyiwrite2/</guid>
+      <guid>https://kristoferhallen.com/posts/whyiwrite2/</guid>
       
       <description>&lt;p&gt;When I started this blog I said that I want to do it mostly &lt;a href=&#34;https://kristoferhallen.com/posts/whyiwrite/&#34;&gt;for myself&lt;/a&gt;. Andy Hawthorne says something similar, &lt;a href=&#34;https://andysblog.uk/why-blog-if-nobody-reads-it&#34;&gt;Why Blog If Nobody Reads It?&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Like blogging. You write because you think, because you observe, because you need to put it somewhere.
@@ -35,10 +59,10 @@ If someone reads it? Bonus. If not? The work still got done.&amp;rdquo;&lt;/p&gt
     
     <item>
       <title>Chesterton´s fence and being proud of what you have</title>
-      <link>http://localhost:1313/posts/chestertonsfence/</link>
+      <link>https://kristoferhallen.com/posts/chestertonsfence/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/chestertonsfence/</guid>
+      <guid>https://kristoferhallen.com/posts/chestertonsfence/</guid>
       
       <description>&lt;p&gt;Chesterton&amp;rsquo;s fence is &amp;ldquo;the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.&amp;rdquo; &lt;a href=&#34;https://en.wikipedia.org/wiki/G._K._Chesterton&#34;&gt;Wikipedia&lt;/a&gt;. In software development think about is as don&amp;rsquo;t change code or an architecture before you understand why it is the way it is.&lt;/p&gt;
 &lt;p&gt;This is a good principle but I also started thinking about it from another perspective. When looking at an existing solution we as software engineers and developers can be very critical, this is not good, we have better ways to solve these kind of problems, let&amp;rsquo;s migrate, use a new technology. Yes we could probably improve the solution, the industry changes fast. But don&amp;rsquo;t forget to be proud! The solution is there, adds value, sometimes it has been doing that for a long time. Give it a chance and remember that when it was designed the decision were based on other requirements and possibilities than you have today. And this can help your reason. Do you really need to change it? Are the requirements that different now? Is this a dinosaur or could it be a &lt;a href=&#34;https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/&#34;&gt;technological shark&lt;/a&gt; that still is a good way to solve the problem?&lt;/p&gt;</description>
@@ -47,32 +71,32 @@ If someone reads it? Bonus. If not? The work still got done.&amp;rdquo;&lt;/p&gt
     
     <item>
       <title>Book review: Modern software engineering</title>
-      <link>http://localhost:1313/posts/modernsoftwareengineering/</link>
+      <link>https://kristoferhallen.com/posts/modernsoftwareengineering/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/modernsoftwareengineering/</guid>
+      <guid>https://kristoferhallen.com/posts/modernsoftwareengineering/</guid>
       
-      <description>&lt;p&gt;&lt;img alt=&#34;Modern software engineering book cover&#34; src=&#34;http://localhost:1313/modernsoftwareengineering.jpg#floatleft&#34;&gt; Modern software engineering written by David Farley is a good book to read if you want an overview of a systematic approach to software development that has focus on real delivering real impact instead of where we many times end up planning and focusing on being busy. It is not about throwing away process. It is about a systematic approach (this is engineering) and making use of what makes software different from many other areas, we can create, run, learn from and change the software in minutes. A short summary would be - waterfall is not a good practice in software development, make use of the superpower of short experiments. The book adds on a lot to this, measure, test, characteristics of good software and also some perspectives on the people and organisation that works with the software.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;Modern software engineering book cover&#34; src=&#34;https://kristoferhallen.com/modernsoftwareengineering.jpg#floatleft&#34;&gt; Modern software engineering written by David Farley is a good book to read if you want an overview of a systematic approach to software development that has focus on real delivering real impact instead of where we many times end up planning and focusing on being busy. It is not about throwing away process. It is about a systematic approach (this is engineering) and making use of what makes software different from many other areas, we can create, run, learn from and change the software in minutes. A short summary would be - waterfall is not a good practice in software development, make use of the superpower of short experiments. The book adds on a lot to this, measure, test, characteristics of good software and also some perspectives on the people and organisation that works with the software.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Book review: The unicorn project</title>
-      <link>http://localhost:1313/posts/theunicornproject/</link>
+      <link>https://kristoferhallen.com/posts/theunicornproject/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/theunicornproject/</guid>
+      <guid>https://kristoferhallen.com/posts/theunicornproject/</guid>
       
-      <description>&lt;p&gt;&lt;img alt=&#34;The unicorn project book cover&#34; src=&#34;http://localhost:1313/theunicornproject.jpg#floatleft&#34;&gt; The Unicorn project is a book about how to (and how not to) develop software in a large company. How do you go from an inefficient, slow and frustrating work environment to a setup where you deliver value fast and people are happy to go to work? Gene Kim&amp;rsquo;s (the author) answer is DevOps, create teams that understand the business, can work end to end from business need to deployed software and that can do experiments, learn from the deployment and improve.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img alt=&#34;The unicorn project book cover&#34; src=&#34;https://kristoferhallen.com/theunicornproject.jpg#floatleft&#34;&gt; The Unicorn project is a book about how to (and how not to) develop software in a large company. How do you go from an inefficient, slow and frustrating work environment to a setup where you deliver value fast and people are happy to go to work? Gene Kim&amp;rsquo;s (the author) answer is DevOps, create teams that understand the business, can work end to end from business need to deployed software and that can do experiments, learn from the deployment and improve.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Internal development platform principles</title>
-      <link>http://localhost:1313/posts/idpprinciples/</link>
+      <link>https://kristoferhallen.com/posts/idpprinciples/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/idpprinciples/</guid>
+      <guid>https://kristoferhallen.com/posts/idpprinciples/</guid>
       
       <description>&lt;p&gt;Reflections on internal development platform (IDP) development.&lt;/p&gt;
 &lt;h1 id=&#34;solve-user-problems-dont-build-perfect-tools&#34;&gt;Solve user problems, don’t build perfect tools&lt;/h1&gt;
@@ -82,10 +106,10 @@ If someone reads it? Bonus. If not? The work still got done.&amp;rdquo;&lt;/p&gt
     
     <item>
       <title>What is (software) architecture</title>
-      <link>http://localhost:1313/posts/whatissoftwarearchitecture/</link>
+      <link>https://kristoferhallen.com/posts/whatissoftwarearchitecture/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/whatissoftwarearchitecture/</guid>
+      <guid>https://kristoferhallen.com/posts/whatissoftwarearchitecture/</guid>
       
       <description>&lt;p&gt;What is software architecture? And is it needed?&lt;/p&gt;
 &lt;p&gt;I met Charity Majors at a conference recently and talked to her about her statement &amp;ldquo;architect is a bullshit role&amp;rdquo;. I am one of those that she refers to when she says &lt;a href=&#34;https://bsky.app/profile/mipsytipsy.bsky.social/post/3lcqpqlkjpc2l&#34;&gt;&amp;ldquo;One of my favorite things in the world is when software architects come up to me and tell me how much they enjoyed my piece about how &amp;ldquo;software architect&amp;rdquo; is such a bullshit role at most companies.&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
@@ -94,10 +118,10 @@ If someone reads it? Bonus. If not? The work still got done.&amp;rdquo;&lt;/p&gt
     
     <item>
       <title>Death to the program! Long live the project.</title>
-      <link>http://localhost:1313/posts/deathtotheprogram/</link>
+      <link>https://kristoferhallen.com/posts/deathtotheprogram/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/deathtotheprogram/</guid>
+      <guid>https://kristoferhallen.com/posts/deathtotheprogram/</guid>
       
       <description>&lt;p&gt;Maybe a niche thing to reflect on, but some software companies went from projects to programs. Why start projects all the time, let&amp;rsquo;s just define a never ending project and call it program. In many cases I don&amp;rsquo;t think it works very well.&lt;/p&gt;
 &lt;ul&gt;
@@ -110,10 +134,10 @@ If someone reads it? Bonus. If not? The work still got done.&amp;rdquo;&lt;/p&gt
     
     <item>
       <title>Does is matter if I call it a PoC or MVP?</title>
-      <link>http://localhost:1313/posts/doesnamingmatter/</link>
+      <link>https://kristoferhallen.com/posts/doesnamingmatter/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/doesnamingmatter/</guid>
+      <guid>https://kristoferhallen.com/posts/doesnamingmatter/</guid>
       
       <description>&lt;p&gt;In software development we run Proof of Concepts (PoCs), do Minimum Viable Products (MVPs), use DevOps and many other activities that have names that are more or less well defined. So when I want to get something done, does it matter what I call it? Yes! Or a longer answer, Yes, it matters in the context where other people interact with your activity, people that finance it, use the output or might fight against it.&lt;/p&gt;</description>
       
@@ -121,21 +145,21 @@ If someone reads it? Bonus. If not? The work still got done.&amp;rdquo;&lt;/p&gt
     
     <item>
       <title>How long is a Poc?</title>
-      <link>http://localhost:1313/posts/poclength/</link>
+      <link>https://kristoferhallen.com/posts/poclength/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/poclength/</guid>
+      <guid>https://kristoferhallen.com/posts/poclength/</guid>
       
-      <description>&lt;p&gt;In software development many do proof of concepts (&lt;a href=&#34;https://en.wikipedia.org/wiki/Proof_of_concept#Software_development&#34;&gt;PoC&lt;/a&gt;), &amp;ldquo;a realization of a certain idea, method or principle in order to demonstrate its feasibility, or viability, or a demonstration in principle with the aim of verifying that some concept or theory has practical potential.&amp;rdquo; In this post I wanted to get an understanding of if there is some kind of de facto agreement on the lenght of PoCs. (Part of trying to answer the question &lt;a href=&#34;http://localhost:1313/tags/howfastisfast/&#34;&gt;How fast is fast in software development?&lt;/a&gt;) Why? In many organisations I have seen the term PoC being used for long projects (months, years) and I think there is a value in having a common understanding in terms that we use, such as PoCs. Otherwise you might have very different expectations on the activity.&lt;/p&gt;</description>
+      <description>&lt;p&gt;In software development many do proof of concepts (&lt;a href=&#34;https://en.wikipedia.org/wiki/Proof_of_concept#Software_development&#34;&gt;PoC&lt;/a&gt;), &amp;ldquo;a realization of a certain idea, method or principle in order to demonstrate its feasibility, or viability, or a demonstration in principle with the aim of verifying that some concept or theory has practical potential.&amp;rdquo; In this post I wanted to get an understanding of if there is some kind of de facto agreement on the lenght of PoCs. (Part of trying to answer the question &lt;a href=&#34;https://kristoferhallen.com/tags/howfastisfast/&#34;&gt;How fast is fast in software development?&lt;/a&gt;) Why? In many organisations I have seen the term PoC being used for long projects (months, years) and I think there is a value in having a common understanding in terms that we use, such as PoCs. Otherwise you might have very different expectations on the activity.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Death to the software pipeline!</title>
-      <link>http://localhost:1313/posts/deathtothesoftwarepipeline/</link>
+      <link>https://kristoferhallen.com/posts/deathtothesoftwarepipeline/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/deathtothesoftwarepipeline/</guid>
+      <guid>https://kristoferhallen.com/posts/deathtothesoftwarepipeline/</guid>
       
       <description>&lt;p&gt;CI pipelines, CD pipelines, devops pipelines, why do we talk so much about pipelines?&lt;/p&gt;
 &lt;p&gt;A recent discussion on LinkedIn, along with an example from my own work, made me realize something: we need to stop obsessing over the “pipelines” themselves! The issue is that when we focus on the pipeline we forget about why we have them, to automate the value adding activities we want to run before deploying or shipping. If teams focus more on pipeline engine selection and logic than what you actually want to do in the pipeline you focus on the wrong things.&lt;/p&gt;</description>
@@ -144,10 +168,10 @@ If someone reads it? Bonus. If not? The work still got done.&amp;rdquo;&lt;/p&gt
     
     <item>
       <title>How not to get stuck with solutions to problems you helped fix</title>
-      <link>http://localhost:1313/posts/technicalleaderadvice/</link>
+      <link>https://kristoferhallen.com/posts/technicalleaderadvice/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/technicalleaderadvice/</guid>
+      <guid>https://kristoferhallen.com/posts/technicalleaderadvice/</guid>
       
       <description>&lt;p&gt;As a senior developer or technical leader, you are often called in to solve urgent problems. There&amp;rsquo;s nothing inherently wrong with that—it’s often part of your job description. However, after fixing the immediate issue, there&amp;rsquo;s a risk that you get drawn into a continuous cycle of improving that area. You’ve resolved a critical problem and are now seen as a key person for that domain, and this pattern repeats as you get pulled into other firefighting activities.&lt;/p&gt;</description>
       
@@ -155,10 +179,10 @@ If someone reads it? Bonus. If not? The work still got done.&amp;rdquo;&lt;/p&gt
     
     <item>
       <title>My motivation for blogging</title>
-      <link>http://localhost:1313/posts/whyiwrite/</link>
+      <link>https://kristoferhallen.com/posts/whyiwrite/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/whyiwrite/</guid>
+      <guid>https://kristoferhallen.com/posts/whyiwrite/</guid>
       
       <description>&lt;p&gt;Why do I write this blog?&lt;/p&gt;
 &lt;p&gt;To help myself think. Improve my reasoning. Test ideas.&lt;/p&gt;
@@ -169,10 +193,10 @@ If someone reads it? Bonus. If not? The work still got done.&amp;rdquo;&lt;/p&gt
     
     <item>
       <title>Zeno´s migration</title>
-      <link>http://localhost:1313/posts/migrations/</link>
+      <link>https://kristoferhallen.com/posts/migrations/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/migrations/</guid>
+      <guid>https://kristoferhallen.com/posts/migrations/</guid>
       
       <description>&lt;p&gt;Migrations, changing technology like tools, libraries or bigger solutions, are sometimes straight forward, clearly define the starting and end point, plan and execute. But in more complex systems I see a tendency for migrations to fail when the plan is to &amp;ldquo;go from A to B&amp;rdquo; migration. System could be complex from a code or intergratin size perspective of view but even if it is a smaller technical migration complexity can be added also from organisational point of view, many people involved with different processes and different priorities. In those large system contexts we find problems like:&lt;/p&gt;</description>
       
@@ -180,10 +204,10 @@ If someone reads it? Bonus. If not? The work still got done.&amp;rdquo;&lt;/p&gt
     
     <item>
       <title>Kristofer Hallén</title>
-      <link>http://localhost:1313/pages/about/</link>
+      <link>https://kristoferhallen.com/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/about/</guid>
+      <guid>https://kristoferhallen.com/pages/about/</guid>
       
       <description>&lt;p&gt;I am a principal developer at &lt;a href=&#34;https://www.ericsson.com&#34;&gt;Ericsson&lt;/a&gt; and mostly work with continous  integration (CI) and deployment (CD) and development environments. I have worked with software development as a developer, architect and product owner in telecom and automotive. I like to read and you find my Sherlock Holmes library &lt;a href=&#34;https://sherlock.kristoferhallen.com&#34;&gt;here&lt;/a&gt;. Talk to me on &lt;a href=&#34;https://bsky.app/profile/kristoferhallen.bsky.social&#34;&gt;Bluesky&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/kristoferhallen/&#34;&gt;Linkedin&lt;/a&gt;&lt;/p&gt;

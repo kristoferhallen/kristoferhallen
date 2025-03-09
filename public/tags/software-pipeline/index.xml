@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Pipeline on Kristofer Hallén</title>
-    <link>http://localhost:1313/tags/software-pipeline/</link>
+    <link>https://kristoferhallen.com/tags/software-pipeline/</link>
     <description>Recent content in Software Pipeline on Kristofer Hallén</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/software-pipeline/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://kristoferhallen.com/tags/software-pipeline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Death to the software pipeline!</title>
-      <link>http://localhost:1313/posts/deathtothesoftwarepipeline/</link>
+      <link>https://kristoferhallen.com/posts/deathtothesoftwarepipeline/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/deathtothesoftwarepipeline/</guid>
+      <guid>https://kristoferhallen.com/posts/deathtothesoftwarepipeline/</guid>
       
       <description>&lt;p&gt;CI pipelines, CD pipelines, devops pipelines, why do we talk so much about pipelines?&lt;/p&gt;
 &lt;p&gt;A recent discussion on LinkedIn, along with an example from my own work, made me realize something: we need to stop obsessing over the “pipelines” themselves! The issue is that when we focus on the pipeline we forget about why we have them, to automate the value adding activities we want to run before deploying or shipping. If teams focus more on pipeline engine selection and logic than what you actually want to do in the pipeline you focus on the wrong things.&lt;/p&gt;</description>
