@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strategy on Kristofer Hallén</title>
+    <link>http://localhost:1313/tags/strategy/</link>
+    <description>Recent content in Strategy on Kristofer Hallén</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/strategy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Software development principles</title>
+      <link>http://localhost:1313/posts/myprinciples/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/myprinciples/</guid>
+      
+      <description>&lt;p&gt;This is a test to put into words what I have learned and believe about software development. Will probably change when learn more so this blog post will probably be updated. There are two parts, principles, ideas I consider proven, and hypotheses, ideas that seem reasonable but that I want to test more before considering them proven.&lt;/p&gt;
+&lt;p&gt;Of course these ideas are context specific and should be tested and evaluated in your own context. My thinking is mostly in the context of supporting company internal users with an engineering environment.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>What is an engineering strategy</title>
+      <link>http://localhost:1313/posts/engineeringstrategy/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/engineeringstrategy/</guid>
+      
+      <description>&lt;p&gt;If you are some kind of leader in software development you have probably followed and/or been expected to produce an engineering strategy. I have written strategies, I have read many strategies but I come back to the question about what an engineering strategy really is. And the best definition I have found is Will Larson&amp;rsquo;s &lt;a href=&#34;https://lethain.com/eng-strategies/&#34;&gt;Writing an engineering strategy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;He uses Richard Rumelt’s framework.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Diagnosis: a theory describing the nature of the challenge.&lt;/li&gt;
+&lt;li&gt;Guiding policies: the approaches you’ll apply to grapple with the challenge.&lt;/li&gt;
+&lt;li&gt;Coherent actions: a set of specific actions directed by guiding policy to address challenge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Go read the &lt;a href=&#34;https://lethain.com/eng-strategies/&#34;&gt;article&lt;/a&gt; to get all you need, examples, how and when to write it, how to relate to other company strategies and more.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

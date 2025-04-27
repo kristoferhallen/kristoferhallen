@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Kristofer Hallén</title>
-    <link>https://kristoferhallen.com/tags/events/</link>
+    <link>http://localhost:1313/tags/events/</link>
     <description>Recent content in Events on Kristofer Hallén</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kristoferhallen.com/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Events in CICD</title>
-      <link>https://kristoferhallen.com/posts/eventsincicd/</link>
+      <link>http://localhost:1313/posts/eventsincicd/</link>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/posts/eventsincicd/</guid>
+      <guid>http://localhost:1313/posts/eventsincicd/</guid>
       
       <description>&lt;p&gt;What do you do when you have a large scale setup of build, integration, test and release pipelines that continuously evolve?&lt;/p&gt;
 &lt;p&gt;At Ericsson, we have used events in CI/CD for many years (&lt;a href=&#34;https://www.ericsson.com/en/blog/2022/11/software-production-event-driven-architectures&#34;&gt;Ericsson blog post&lt;/a&gt;). This approach gives us valuable flexibility — we can quickly adapt CI/CD pipelines to meet new product requirements. Whether it’s setting up a new integration pipeline for a product variant, reusing test results from another pipeline, or triggering pipelines based on upstream results, event-driven architectures make it (relatively) easy.&lt;/p&gt;</description>

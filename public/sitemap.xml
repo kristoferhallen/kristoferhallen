@@ -2,166 +2,184 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kristoferhallen.com/tags/cicd/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/myprinciples/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/principles/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/strategy/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/engineering-strategy/</loc>
+    <lastmod>2025-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/engineeringstrategy/</loc>
+    <lastmod>2025-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sherlock-holmes/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/software-development/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/softwaredevelopmentaccordingtosherlock/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cicd/</loc>
     <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/events/</loc>
+    <loc>http://localhost:1313/tags/events/</loc>
     <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/posts/eventsincicd/</loc>
+    <loc>http://localhost:1313/posts/eventsincicd/</loc>
     <lastmod>2025-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/</loc>
-    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kristoferhallen.com/posts/</loc>
-    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kristoferhallen.com/tags/</loc>
-    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kristoferhallen.com/tags/measurements/</loc>
+    <loc>http://localhost:1313/tags/measurements/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/speed-of-change/</loc>
+    <loc>http://localhost:1313/tags/speed-of-change/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/posts/capabilitytomakechanges/</loc>
+    <loc>http://localhost:1313/posts/capabilitytomakechanges/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/blogging/</loc>
+    <loc>http://localhost:1313/tags/blogging/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/posts/askyourdeveloper/</loc>
+    <loc>http://localhost:1313/posts/askyourdeveloper/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/scale-up/</loc>
+    <loc>http://localhost:1313/tags/scale-up/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/software-development/</loc>
+    <loc>http://localhost:1313/posts/whyiwrite2/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/posts/whyiwrite2/</loc>
-    <lastmod>2025-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kristoferhallen.com/tags/chesterton/</loc>
+    <loc>http://localhost:1313/tags/chesterton/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/posts/chestertonsfence/</loc>
+    <loc>http://localhost:1313/posts/chestertonsfence/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/migration/</loc>
+    <loc>http://localhost:1313/tags/migration/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/posts/modernsoftwareengineering/</loc>
+    <loc>http://localhost:1313/posts/modernsoftwareengineering/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/devops/</loc>
+    <loc>http://localhost:1313/tags/devops/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/software-engineering/</loc>
+    <loc>http://localhost:1313/tags/software-engineering/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/waterfall/</loc>
+    <loc>http://localhost:1313/tags/waterfall/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/accelerate/</loc>
+    <loc>http://localhost:1313/tags/accelerate/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/posts/theunicornproject/</loc>
+    <loc>http://localhost:1313/posts/theunicornproject/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/gene-kim/</loc>
+    <loc>http://localhost:1313/tags/gene-kim/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/idp/</loc>
+    <loc>http://localhost:1313/tags/idp/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/posts/idpprinciples/</loc>
+    <loc>http://localhost:1313/posts/idpprinciples/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/platform/</loc>
+    <loc>http://localhost:1313/tags/platform/</loc>
     <lastmod>2025-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/principles/</loc>
-    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kristoferhallen.com/tags/architecture/</loc>
+    <loc>http://localhost:1313/tags/architecture/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/martin-fowler/</loc>
+    <loc>http://localhost:1313/tags/martin-fowler/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/systemization/</loc>
+    <loc>http://localhost:1313/tags/systemization/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/posts/whatissoftwarearchitecture/</loc>
+    <loc>http://localhost:1313/posts/whatissoftwarearchitecture/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/celebrate/</loc>
+    <loc>http://localhost:1313/tags/celebrate/</loc>
     <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/posts/deathtotheprogram/</loc>
+    <loc>http://localhost:1313/posts/deathtotheprogram/</loc>
     <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/program/</loc>
+    <loc>http://localhost:1313/tags/program/</loc>
     <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/project/</loc>
+    <loc>http://localhost:1313/tags/project/</loc>
     <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/rest/</loc>
+    <loc>http://localhost:1313/tags/rest/</loc>
     <lastmod>2024-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/posts/doesnamingmatter/</loc>
+    <loc>http://localhost:1313/posts/doesnamingmatter/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/mvp/</loc>
+    <loc>http://localhost:1313/tags/mvp/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/poc/</loc>
+    <loc>http://localhost:1313/tags/poc/</loc>
     <lastmod>2024-11-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/posts/poclength/</loc>
+    <loc>http://localhost:1313/posts/poclength/</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/howfastisfast/</loc>
+    <loc>http://localhost:1313/tags/howfastisfast/</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/ci-pipeline/</loc>
+    <loc>http://localhost:1313/tags/ci-pipeline/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/posts/deathtothesoftwarepipeline/</loc>
+    <loc>http://localhost:1313/posts/deathtothesoftwarepipeline/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/software-pipeline/</loc>
+    <loc>http://localhost:1313/tags/software-pipeline/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/software-testing/</loc>
+    <loc>http://localhost:1313/tags/software-testing/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/advice/</loc>
+    <loc>http://localhost:1313/tags/advice/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/firefighting/</loc>
+    <loc>http://localhost:1313/tags/firefighting/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/posts/technicalleaderadvice/</loc>
+    <loc>http://localhost:1313/posts/technicalleaderadvice/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/tags/technicalleader/</loc>
+    <loc>http://localhost:1313/tags/technicalleader/</loc>
     <lastmod>2024-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/posts/whyiwrite/</loc>
+    <loc>http://localhost:1313/posts/whyiwrite/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/posts/migrations/</loc>
+    <loc>http://localhost:1313/posts/migrations/</loc>
     <lastmod>2024-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kristoferhallen.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://kristoferhallen.com/pages/about/</loc>
+    <loc>http://localhost:1313/pages/about/</loc>
   </url><url>
-    <loc>https://kristoferhallen.com/pages/</loc>
+    <loc>http://localhost:1313/pages/</loc>
   </url>
 </urlset>

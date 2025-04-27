@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en-gb"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="content-type" content="text/html">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title itemprop="name">My Software development principles | Kristofer Hallén</title>
+<meta property="og:title" content="My Software development principles | Kristofer Hallén" />
+<meta name="twitter:title" content="My Software development principles | Kristofer Hallén" />
+<meta itemprop="name" content="My Software development principles | Kristofer Hallén" />
+<meta name="application-name" content="My Software development principles | Kristofer Hallén" />
+<meta property="og:site_name" content="Kristofer Hallén&#39;s blog" />
+
+<meta name="description" content="Software development thoughts by Kristofer Hallén.">
+<meta itemprop="description" content="Software development thoughts by Kristofer Hallén." />
+<meta property="og:description" content="Software development thoughts by Kristofer Hallén." />
+<meta name="twitter:description" content="Software development thoughts by Kristofer Hallén." />
+
+<meta property="og:locale" content="en-gb" />
+<meta name="language" content="en-gb" />
+
+  <link rel="alternate" hreflang="en-gb" href="http://localhost:1313/posts/myprinciples/" title="English" />
+
+
+
+
+
+    
+    
+    
+
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content=2025-04-27T00:00:00Z />
+    <meta property="article:published_time" content=2025-04-27T00:00:00Z />
+    <meta property="og:url" content="http://localhost:1313/posts/myprinciples/" />
+
+    
+    <meta property="og:article:author" content="Kristofer Hallén" />
+    <meta property="article:author" content="Kristofer Hallén" />
+    <meta name="author" content="Kristofer Hallén" />
+    
+    
+
+    
+
+    <script defer type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "headline": "My Software development principles",
+        "author": {
+        "@type": "Person",
+        "name": ""
+        },
+        "datePublished": "2025-04-27",
+        "description": "",
+        "wordCount":  496 ,
+        "mainEntityOfPage": "True",
+        "dateModified": "2025-04-27",
+        "image": {
+        "@type": "imageObject",
+        "url": ""
+        },
+        "publisher": {
+        "@type": "Organization",
+        "name": "Kristofer Hallén"
+        }
+    }
+    </script>
+
+
+<meta name="generator" content="Hugo 0.134.1">
+
+    
+    <meta property="og:url" content="http://localhost:1313/posts/myprinciples/">
+  <meta property="og:site_name" content="Kristofer Hallén">
+  <meta property="og:title" content="My Software development principles">
+  <meta property="og:description" content="This is a test to put into words what I have learned and believe about software development. Will probably change when learn more so this blog post will probably be updated. There are two parts, principles, ideas I consider proven, and hypotheses, ideas that seem reasonable but that I want to test more before considering them proven.
+Of course these ideas are context specific and should be tested and evaluated in your own context. My thinking is mostly in the context of supporting company internal users with an engineering environment.">
+  <meta property="og:locale" content="en_gb">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-04-27T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-04-27T00:00:00+00:00">
+    <meta property="article:tag" content="Principles">
+    <meta property="article:tag" content="Strategy">
+
+
+    
+    
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="My Software development principles">
+  <meta name="twitter:description" content="This is a test to put into words what I have learned and believe about software development. Will probably change when learn more so this blog post will probably be updated. There are two parts, principles, ideas I consider proven, and hypotheses, ideas that seem reasonable but that I want to test more before considering them proven.
+Of course these ideas are context specific and should be tested and evaluated in your own context. My thinking is mostly in the context of supporting company internal users with an engineering environment.">
+
+
+    
+
+    <link rel="canonical" href="http://localhost:1313/posts/myprinciples/">
+    <link href="/style.min.94b93938f32053d63677c86e148839bdae14a827f29161057675f939160282dc.css" rel="stylesheet">
+    <link href="/code-highlight.min.706d31975fec544a864cb7f0d847a73ea55ca1df91bf495fd12a177138d807cf.css" rel="stylesheet">
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
+    <link rel="mask-icon" href="/icons/safari-pinned-tab.svg">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+
+
+
+<link rel="manifest" href="http://localhost:1313/site.webmanifest">
+
+<meta name="msapplication-config" content="/browserconfig.xml">
+<meta name="msapplication-TileColor" content="#2d89ef">
+<meta name="theme-color" content="#434648">
+
+    
+    <link rel="icon" type="image/svg+xml" href="/icons/favicon.svg">
+
+    </head>
+<body data-theme = "dark" class="notransition">
+
+<script src="/js/theme.js"></script>
+
+<div class="navbar" role="navigation">
+    <nav class="menu" aria-label="Main Navigation">
+        <a href="http://localhost:1313/" class="logo">
+            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" 
+viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" 
+stroke-linejoin="round" class="feather feather-home">
+<title>Home</title>
+<path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+<polyline points="9 22 9 12 15 12 15 22"></polyline>
+</svg>
+        </a>
+        <input type="checkbox" id="menu-trigger" class="menu-trigger" />
+        <label for="menu-trigger">
+            <span class="menu-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" stroke="currentColor" fill="none" viewBox="0 0 14 14"><title>Menu</title><path stroke-linecap="round" stroke-linejoin="round" d="M10.595 7L3.40726 7"></path><path stroke-linecap="round" stroke-linejoin="round" d="M10.5096 3.51488L3.49301 3.51488"></path><path stroke-linecap="round" stroke-linejoin="round" d="M10.5096 10.4851H3.49301"></path><path stroke-linecap="round" stroke-linejoin="round" d="M0.5 12.5V1.5C0.5 0.947715 0.947715 0.5 1.5 0.5H12.5C13.0523 0.5 13.5 0.947715 13.5 1.5V12.5C13.5 13.0523 13.0523 13.5 12.5 13.5H1.5C0.947715 13.5 0.5 13.0523 0.5 12.5Z"></path></svg>
+            </span>
+        </label>
+
+        <div class="trigger">
+            <ul class="trigger-container">
+                
+                
+                <li>
+                    <a class="menu-link " href="/">
+                        Home
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link active" href="/posts/">
+                        Posts
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/pages/about/">
+                        About me
+                    </a>
+                    
+                </li>
+                
+                <li>
+                    <a class="menu-link " href="/tags/">
+                        Tags
+                    </a>
+                    
+                </li>
+                
+                <li class="menu-separator">
+                    <span>|</span>
+                </li>
+                
+                
+            </ul>
+            <a id="mode" href="#">
+                <svg xmlns="http://www.w3.org/2000/svg" class="mode-sunny" width="21" height="21" viewBox="0 0 14 14" stroke-width="1">
+<title>LIGHT</title><g><circle cx="7" cy="7" r="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></circle><line x1="7" y1="0.5" x2="7" y2="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="2.4" x2="3.82" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="0.5" y1="7" x2="2.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="11.6" x2="3.82" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="7" y1="13.5" x2="7" y2="11.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="11.6" x2="10.18" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="13.5" y1="7" x2="11.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="2.4" x2="10.18" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line></g></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" class="mode-moon" width="21" height="21" viewBox="0 0 14 14" stroke-width="1">
+<title>DARK</title><g><circle cx="7" cy="7" r="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></circle><line x1="7" y1="0.5" x2="7" y2="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="2.4" x2="3.82" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="0.5" y1="7" x2="2.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="2.4" y1="11.6" x2="3.82" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="7" y1="13.5" x2="7" y2="11.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="11.6" x2="10.18" y2="10.18" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="13.5" y1="7" x2="11.5" y2="7" fill="none" stroke-linecap="round" stroke-linejoin="round"></line><line x1="11.6" y1="2.4" x2="10.18" y2="3.82" fill="none" stroke-linecap="round" stroke-linejoin="round"></line></g></svg>
+            </a>
+        </div>
+    </nav>
+</div>
+
+<div class="wrapper post">
+    <main class="page-content" aria-label="Content">
+        <article>
+            <header class="header">
+                <h1 class="header-title">My Software development principles</h1>
+                
+                
+                <div class="post-meta">
+                    <time datetime="2025-04-27T00:00:00&#43;00:00" itemprop="datePublished"> 27 Apr 2025 </time>
+                </div>
+                
+            </header>
+            
+            <div class="page-content">
+                <p>This is a test to put into words what I have learned and believe about software development. Will probably change when learn more so this blog post will probably be updated. There are two parts, principles, ideas I consider proven, and hypotheses, ideas that seem reasonable but that I want to test more before considering them proven.</p>
+<p>Of course these ideas are context specific and should be tested and evaluated in your own context. My thinking is mostly in the context of supporting company internal users with an engineering environment.</p>
+<h1 id="principles">Principles</h1>
+<h2 id="if-you-cant-add-value-within-three-months-the-plan-is-wrong">If you can’t add value within three months the plan is wrong.</h2>
+<p>It does not have to be all the value. But if you have not been able to deploy something and get feedback on it withing three months you have a very high risk of working on the wrong things and that other people will be faster (e.g. if you have internal “customers” they might find a solution themselves)</p>
+<h2 id="value-is-deployment-and-feedback-from-users">Value is deployment and feedback from users.</h2>
+<p>Value is not: a plan, an architecture, a part of the solution that can’t be used yet.</p>
+<h2 id="projects-over-programs">Projects over programs.</h2>
+<p><a href="https://kristoferhallen.com/posts/deathtotheprogram/">Death to the program! Long live the project.</a></p>
+<h2 id="focus-on-impact-over-activities">Focus on impact over activities.</h2>
+<p>Activities are tasks like writing code or deploying; impact is the actual effect and value created.</p>
+<h2 id="beware-the-metagame">Beware the metagame</h2>
+<p><a href="https://amasad.me/meta">https://amasad.me/meta</a></p>
+<h2 id="reuse-over-buy-over-build">Reuse over buy over build</h2>
+<p>When it is not core business.</p>
+<h2 id="combined-business-and-technology-perspective-all-the-way-down-to-individuals">Combined business and technology perspective all the way down to individuals</h2>
+<p>Understand business context and think entrepreneurially, even as an employee. Look beyond your immediate role to understand how the company makes money.</p>
+<h1 id="hypotheses">Hypotheses</h1>
+<h2 id="work-as-close-to-product-as-possible">Work as close to product as possible</h2>
+<p>Evolving Engineering environment in projects/programs separated from product projects/programs is more expensive and slower than evolving engineering environment in the product project.</p>
+<p>Some argue that running central projects gives cost control and alignment. But it is also easy to loose track of your (internal) customer needs and deadlines and then your risk building things that are not needed or used. Note that you can still have central tools and services, the point is that evolving them to meet the user needs is most efficient when done in the product development where the users are.</p>
+<h2 id="product-thinking-over-project-thinking">Product thinking over project thinking.</h2>
+<p>Focus on smaller iterative improvements rather than big improvement projects. There are two problems I see with this. One is that in many companies the financial models prefer a project setup. You plan for a longer time, you assign a budget to a wanted outcome. And the other is that you many times have deadlines, external customer commitments. Do those things make product thinking impossible? You could make a roadmap with wanted outcomes, this could be used for a longer term investment decision. Try to focus on measurable improvements instead of specific artifacts (e.g. happier developers instead of “new IDE”). And you can in the team still commit to deadlines, it gives an input to prioritization and a sense of urgency for the team.</p>
+
+            </div>
+        </article></main>
+</div>
+<footer class="footer">
+    <span class="footer_item"> </span>
+    &nbsp;
+
+    <div class="footer_social-icons">
+</div>
+    <small class="footer_copyright">
+        © 2025 Kristofer Hallén.
+        Powered by <a href="https://github.com/hugo-sid/hugo-blog-awesome" target="_blank" rel="noopener">Hugo blog awesome</a>.
+    </small>
+</footer><a href="#" title="Go to top" id="totop">
+    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" stroke="currentColor" viewBox="0 96 960 960">
+    <path d="M283 704.739 234.261 656 480 410.261 725.739 656 677 704.739l-197-197-197 197Z"/>
+</svg>
+
+</a>
+
+
+    
+
+
+
+
+    
+    
+        
+    
+
+    
+    
+        
+    
+
+
+
+    
+    <script async src="http://localhost:1313/js/main.js" ></script>
+
+    
+
+</body>
+</html>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Measurements on Kristofer Hallén</title>
-    <link>https://kristoferhallen.com/tags/measurements/</link>
+    <link>http://localhost:1313/tags/measurements/</link>
     <description>Recent content in Measurements on Kristofer Hallén</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kristoferhallen.com/tags/measurements/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/measurements/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What’s Slowing You Down? Diving into Lead Time for Changes</title>
-      <link>https://kristoferhallen.com/posts/capabilitytomakechanges/</link>
+      <link>http://localhost:1313/posts/capabilitytomakechanges/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/posts/capabilitytomakechanges/</guid>
+      <guid>http://localhost:1313/posts/capabilitytomakechanges/</guid>
       
       <description>&lt;p&gt;When assessing how to measure the effectiveness of a development organization, one useful metric is &amp;ldquo;how quickly can we make a change?&amp;rdquo; This idea is not new—DORA metrics, for example, include &amp;ldquo;Lead Time for Changes.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;While we didn’t go into detailed definitions, we considered lead time as the duration from identifying a need to having a solution deployed and in use. I wanted to explore what factors influence this measurement and what we should focus on if we want to improve it.&lt;/p&gt;</description>

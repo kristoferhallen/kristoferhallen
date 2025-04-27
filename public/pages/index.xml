@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Kristofer Hallén</title>
-    <link>https://kristoferhallen.com/pages/</link>
+    <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on Kristofer Hallén</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://kristoferhallen.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kristofer Hallén</title>
-      <link>https://kristoferhallen.com/pages/about/</link>
+      <link>http://localhost:1313/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/pages/about/</guid>
+      <guid>http://localhost:1313/pages/about/</guid>
       
       <description>&lt;p&gt;I am a principal developer at &lt;a href=&#34;https://www.ericsson.com&#34;&gt;Ericsson&lt;/a&gt; and mostly work with continous  integration (CI) and deployment (CD) and development environments. I have worked with software development as a developer, architect and product owner in telecom and automotive. I like to read and you find my Sherlock Holmes library &lt;a href=&#34;https://sherlock.kristoferhallen.com&#34;&gt;here&lt;/a&gt;. Talk to me on &lt;a href=&#34;https://bsky.app/profile/kristoferhallen.bsky.social&#34;&gt;Bluesky&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/kristoferhallen/&#34;&gt;Linkedin&lt;/a&gt;&lt;/p&gt;

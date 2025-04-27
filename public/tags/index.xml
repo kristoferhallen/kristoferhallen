@@ -2,72 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kristofer Hallén</title>
-    <link>https://kristoferhallen.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Kristofer Hallén</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kristoferhallen.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CICD</title>
-      <link>https://kristoferhallen.com/tags/cicd/</link>
-      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <title>Principles</title>
+      <link>http://localhost:1313/tags/principles/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/cicd/</guid>
+      <guid>http://localhost:1313/tags/principles/</guid>
       
       <description></description>
       
     </item>
     
     <item>
-      <title>Events</title>
-      <link>https://kristoferhallen.com/tags/events/</link>
-      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <title>Strategy</title>
+      <link>http://localhost:1313/tags/strategy/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/events/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Measurements</title>
-      <link>https://kristoferhallen.com/tags/measurements/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/measurements/</guid>
+      <guid>http://localhost:1313/tags/strategy/</guid>
       
       <description></description>
       
     </item>
     
     <item>
-      <title>Speed of Change</title>
-      <link>https://kristoferhallen.com/tags/speed-of-change/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <title>Engineering Strategy</title>
+      <link>http://localhost:1313/tags/engineering-strategy/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/speed-of-change/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blogging</title>
-      <link>https://kristoferhallen.com/tags/blogging/</link>
-      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/blogging/</guid>
+      <guid>http://localhost:1313/tags/engineering-strategy/</guid>
       
       <description></description>
       
     </item>
     
     <item>
-      <title>Scale Up</title>
-      <link>https://kristoferhallen.com/tags/scale-up/</link>
-      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      <title>Sherlock Holmes</title>
+      <link>http://localhost:1313/tags/sherlock-holmes/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/scale-up/</guid>
+      <guid>http://localhost:1313/tags/sherlock-holmes/</guid>
       
       <description></description>
       
@@ -75,10 +53,76 @@
     
     <item>
       <title>Software Development</title>
-      <link>https://kristoferhallen.com/tags/software-development/</link>
+      <link>http://localhost:1313/tags/software-development/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/software-development/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CICD</title>
+      <link>http://localhost:1313/tags/cicd/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/cicd/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>http://localhost:1313/tags/events/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/events/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Measurements</title>
+      <link>http://localhost:1313/tags/measurements/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/measurements/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Speed of Change</title>
+      <link>http://localhost:1313/tags/speed-of-change/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/speed-of-change/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Blogging</title>
+      <link>http://localhost:1313/tags/blogging/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/software-development/</guid>
+      <guid>http://localhost:1313/tags/blogging/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Scale Up</title>
+      <link>http://localhost:1313/tags/scale-up/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/scale-up/</guid>
       
       <description></description>
       
@@ -86,10 +130,10 @@
     
     <item>
       <title>Chesterton</title>
-      <link>https://kristoferhallen.com/tags/chesterton/</link>
+      <link>http://localhost:1313/tags/chesterton/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/chesterton/</guid>
+      <guid>http://localhost:1313/tags/chesterton/</guid>
       
       <description></description>
       
@@ -97,10 +141,10 @@
     
     <item>
       <title>Migration</title>
-      <link>https://kristoferhallen.com/tags/migration/</link>
+      <link>http://localhost:1313/tags/migration/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/migration/</guid>
+      <guid>http://localhost:1313/tags/migration/</guid>
       
       <description></description>
       
@@ -108,10 +152,10 @@
     
     <item>
       <title>Devops</title>
-      <link>https://kristoferhallen.com/tags/devops/</link>
+      <link>http://localhost:1313/tags/devops/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/devops/</guid>
+      <guid>http://localhost:1313/tags/devops/</guid>
       
       <description></description>
       
@@ -119,10 +163,10 @@
     
     <item>
       <title>Software Engineering</title>
-      <link>https://kristoferhallen.com/tags/software-engineering/</link>
+      <link>http://localhost:1313/tags/software-engineering/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/software-engineering/</guid>
+      <guid>http://localhost:1313/tags/software-engineering/</guid>
       
       <description></description>
       
@@ -130,10 +174,10 @@
     
     <item>
       <title>Waterfall</title>
-      <link>https://kristoferhallen.com/tags/waterfall/</link>
+      <link>http://localhost:1313/tags/waterfall/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/waterfall/</guid>
+      <guid>http://localhost:1313/tags/waterfall/</guid>
       
       <description></description>
       
@@ -141,10 +185,10 @@
     
     <item>
       <title>Accelerate</title>
-      <link>https://kristoferhallen.com/tags/accelerate/</link>
+      <link>http://localhost:1313/tags/accelerate/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/accelerate/</guid>
+      <guid>http://localhost:1313/tags/accelerate/</guid>
       
       <description></description>
       
@@ -152,10 +196,10 @@
     
     <item>
       <title>Gene Kim</title>
-      <link>https://kristoferhallen.com/tags/gene-kim/</link>
+      <link>http://localhost:1313/tags/gene-kim/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/gene-kim/</guid>
+      <guid>http://localhost:1313/tags/gene-kim/</guid>
       
       <description></description>
       
@@ -163,10 +207,10 @@
     
     <item>
       <title>Idp</title>
-      <link>https://kristoferhallen.com/tags/idp/</link>
+      <link>http://localhost:1313/tags/idp/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/idp/</guid>
+      <guid>http://localhost:1313/tags/idp/</guid>
       
       <description></description>
       
@@ -174,21 +218,10 @@
     
     <item>
       <title>Platform</title>
-      <link>https://kristoferhallen.com/tags/platform/</link>
+      <link>http://localhost:1313/tags/platform/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/platform/</guid>
-      
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Principles</title>
-      <link>https://kristoferhallen.com/tags/principles/</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://kristoferhallen.com/tags/principles/</guid>
+      <guid>http://localhost:1313/tags/platform/</guid>
       
       <description></description>
       
@@ -196,10 +229,10 @@
     
     <item>
       <title>Architecture</title>
-      <link>https://kristoferhallen.com/tags/architecture/</link>
+      <link>http://localhost:1313/tags/architecture/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/architecture/</guid>
+      <guid>http://localhost:1313/tags/architecture/</guid>
       
       <description></description>
       
@@ -207,10 +240,10 @@
     
     <item>
       <title>Martin Fowler</title>
-      <link>https://kristoferhallen.com/tags/martin-fowler/</link>
+      <link>http://localhost:1313/tags/martin-fowler/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/martin-fowler/</guid>
+      <guid>http://localhost:1313/tags/martin-fowler/</guid>
       
       <description></description>
       
@@ -218,10 +251,10 @@
     
     <item>
       <title>Systemization</title>
-      <link>https://kristoferhallen.com/tags/systemization/</link>
+      <link>http://localhost:1313/tags/systemization/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/systemization/</guid>
+      <guid>http://localhost:1313/tags/systemization/</guid>
       
       <description></description>
       
@@ -229,10 +262,10 @@
     
     <item>
       <title>Celebrate</title>
-      <link>https://kristoferhallen.com/tags/celebrate/</link>
+      <link>http://localhost:1313/tags/celebrate/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/celebrate/</guid>
+      <guid>http://localhost:1313/tags/celebrate/</guid>
       
       <description></description>
       
@@ -240,10 +273,10 @@
     
     <item>
       <title>Program</title>
-      <link>https://kristoferhallen.com/tags/program/</link>
+      <link>http://localhost:1313/tags/program/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/program/</guid>
+      <guid>http://localhost:1313/tags/program/</guid>
       
       <description></description>
       
@@ -251,10 +284,10 @@
     
     <item>
       <title>Project</title>
-      <link>https://kristoferhallen.com/tags/project/</link>
+      <link>http://localhost:1313/tags/project/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/project/</guid>
+      <guid>http://localhost:1313/tags/project/</guid>
       
       <description></description>
       
@@ -262,10 +295,10 @@
     
     <item>
       <title>Rest</title>
-      <link>https://kristoferhallen.com/tags/rest/</link>
+      <link>http://localhost:1313/tags/rest/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/rest/</guid>
+      <guid>http://localhost:1313/tags/rest/</guid>
       
       <description></description>
       
@@ -273,10 +306,10 @@
     
     <item>
       <title>MVP</title>
-      <link>https://kristoferhallen.com/tags/mvp/</link>
+      <link>http://localhost:1313/tags/mvp/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/mvp/</guid>
+      <guid>http://localhost:1313/tags/mvp/</guid>
       
       <description></description>
       
@@ -284,10 +317,10 @@
     
     <item>
       <title>PoC</title>
-      <link>https://kristoferhallen.com/tags/poc/</link>
+      <link>http://localhost:1313/tags/poc/</link>
       <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/poc/</guid>
+      <guid>http://localhost:1313/tags/poc/</guid>
       
       <description></description>
       
@@ -295,10 +328,10 @@
     
     <item>
       <title>Howfastisfast</title>
-      <link>https://kristoferhallen.com/tags/howfastisfast/</link>
+      <link>http://localhost:1313/tags/howfastisfast/</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/howfastisfast/</guid>
+      <guid>http://localhost:1313/tags/howfastisfast/</guid>
       
       <description></description>
       
@@ -306,10 +339,10 @@
     
     <item>
       <title>CI Pipeline</title>
-      <link>https://kristoferhallen.com/tags/ci-pipeline/</link>
+      <link>http://localhost:1313/tags/ci-pipeline/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/ci-pipeline/</guid>
+      <guid>http://localhost:1313/tags/ci-pipeline/</guid>
       
       <description></description>
       
@@ -317,10 +350,10 @@
     
     <item>
       <title>Software Pipeline</title>
-      <link>https://kristoferhallen.com/tags/software-pipeline/</link>
+      <link>http://localhost:1313/tags/software-pipeline/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/software-pipeline/</guid>
+      <guid>http://localhost:1313/tags/software-pipeline/</guid>
       
       <description></description>
       
@@ -328,10 +361,10 @@
     
     <item>
       <title>Software Testing</title>
-      <link>https://kristoferhallen.com/tags/software-testing/</link>
+      <link>http://localhost:1313/tags/software-testing/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/software-testing/</guid>
+      <guid>http://localhost:1313/tags/software-testing/</guid>
       
       <description></description>
       
@@ -339,10 +372,10 @@
     
     <item>
       <title>Advice</title>
-      <link>https://kristoferhallen.com/tags/advice/</link>
+      <link>http://localhost:1313/tags/advice/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/advice/</guid>
+      <guid>http://localhost:1313/tags/advice/</guid>
       
       <description></description>
       
@@ -350,10 +383,10 @@
     
     <item>
       <title>Firefighting</title>
-      <link>https://kristoferhallen.com/tags/firefighting/</link>
+      <link>http://localhost:1313/tags/firefighting/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/firefighting/</guid>
+      <guid>http://localhost:1313/tags/firefighting/</guid>
       
       <description></description>
       
@@ -361,10 +394,10 @@
     
     <item>
       <title>Technicalleader</title>
-      <link>https://kristoferhallen.com/tags/technicalleader/</link>
+      <link>http://localhost:1313/tags/technicalleader/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://kristoferhallen.com/tags/technicalleader/</guid>
+      <guid>http://localhost:1313/tags/technicalleader/</guid>
       
       <description></description>
       
