@@ -1,0 +1,30 @@
+{{ define "title"}}
+    404 |  NOT FOUND
+{{ end }}
+
+{{ define "main"}}
+<div class="wrapper">
+    <main class="main-404" aria-label="Content">
+        <h1>{{ T "errors.404" }}</h1>
+        <p>{{ T "errors.404_description" }}</p>
+    </main>
+</div>
+
+<script>
+(function () {
+  var path = window.location.pathname;
+  var legacyPrefixes = [
+    '/wp-', '/xmlrpc', '/wordpress',
+    '/media/system', '/media/com_',
+    '/administrator', '/components', '/modules', '/plugins', '/templates',
+    '/joomla', '/phpmyadmin', '/pma', '/mysql', '/.env', '/cgi-bin'
+  ];
+  for (var i = 0; i < legacyPrefixes.length; i++) {
+    if (path.toLowerCase().indexOf(legacyPrefixes[i]) === 0) {
+      window.location.replace('/');
+      return;
+    }
+  }
+})();
+</script>
+{{ end }}

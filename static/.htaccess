@@ -1,10 +1,12 @@
 # .htaccess — kristoferhallen.com
-# Apache redirects for legacy WordPress/Joomla paths
+
+# Använd vår anpassade 404-sida
+ErrorDocument 404 /404.html
 
 Options -Indexes
 RewriteEngine On
 
-# --- 301 redirects: old WordPress paths → homepage ---
+# --- 301: WordPress-sökvägar → startsidan ---
 RewriteRule ^wp-admin(/.*)?$ / [R=301,L]
 RewriteRule ^wp-includes(/.*)?$ / [R=301,L]
 RewriteRule ^wp-content(/.*)?$ / [R=301,L]
@@ -13,20 +15,10 @@ RewriteRule ^xmlrpc\.php$ / [R=301,L]
 RewriteRule ^wp-cron\.php$ / [R=301,L]
 RewriteRule ^wp-config\.php$ / [R=301,L]
 
-# --- 301 redirects: old Joomla paths → homepage ---
+# --- 301: Joomla-sökvägar → startsidan ---
 RewriteRule ^media/system(/.*)?$ / [R=301,L]
 RewriteRule ^administrator(/.*)?$ / [R=301,L]
 RewriteRule ^components(/.*)?$ / [R=301,L]
 RewriteRule ^modules(/.*)?$ / [R=301,L]
 RewriteRule ^plugins(/.*)?$ / [R=301,L]
 RewriteRule ^templates(/.*)?$ / [R=301,L]
-
-# --- Block bad bots by User-Agent (saves bandwidth) ---
-RewriteCond %{HTTP_USER_AGENT} (GPTBot|ClaudeBot|CCBot|Bytespider|PerplexityBot|Google-Extended|AhrefsBot|SemrushBot|DotBot|MJ12bot) [NC]
-RewriteRule .* - [F,L]
-
-# --- Serve Hugo static site ---
-# Hugo generates clean URLs; ensure trailing slash works
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ /$1/index.html [L]
