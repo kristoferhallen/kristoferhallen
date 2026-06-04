@@ -2,7 +2,7 @@
 title: 'What is (software) architecture'
 date: 2024-12-15
 draft: false
-tags: ["architecture", "systemization", "Martin Fowler"]
+tags: ["architecture", "systemization", "martin fowler"]
 ---
 
 What is software architecture? And is it needed? 

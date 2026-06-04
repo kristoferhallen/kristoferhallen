@@ -2,7 +2,7 @@
 title: 'Chesterton´s fence and being proud of what you have'
 date: 2025-02-02
 draft: false
-tags: ["Chesterton", "migration"]
+tags: ["chesterton", "migration"]
 ---
 
 Chesterton's fence is "the principle that reforms should not be made until the reasoning behind the existing state of affairs is understood." [Wikipedia](https://en.wikipedia.org/wiki/G._K._Chesterton). In software development think about is as don't change code or an architecture before you understand why it is the way it is. 

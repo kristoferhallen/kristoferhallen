@@ -2,7 +2,7 @@
 title: 'Why I write 2'
 date: 2025-02-16
 draft: false
-tags: ["Software development", "blogging"]
+tags: ["software development", "blogging"]
 ---
 
 When I started this blog I said that I want to do it mostly [for myself](https://kristoferhallen.com/posts/whyiwrite/). Andy Hawthorne says something similar, [Why Blog If Nobody Reads It?](https://andysblog.uk/why-blog-if-nobody-reads-it). 

@@ -9,7 +9,6 @@ defaultContentLanguage = "en-gb"
 
 # Enable emojis globally
 enableEmoji = true
-ignoreErrors = ["additional-script-loading-error"] # ignore error of loading additional scripts.
 
 # traditional way: theme component resides in directory 'themes' 
 theme = "hugo-blog-awesome"
@@ -85,14 +84,9 @@ theme = "hugo-blog-awesome"
   toc = false # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
   goToTop = true # set to false to disable 'go to top' button
-  additionalScripts = ['js/custom.js', 'js/custom-2.js']
-  # Will try to load 'assets/js/custom.js' and 'assets/js/custom-2.js'.
-  # Your custom scripts will be concatenated to one file `custom.js`.
-  # When building for production it will be minified.
-  # The file `custom.js` is loaded on each page (before body tag ends).
   dateFormat = "" # date format used to show dates on various pages. If nothing is specified, then "2 Jan 2006" format is used.
   # See https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference for available date formats.
-  rssFeedDescription = "summary" # available options: 1) summary 2) full
+  rssFeedDescription = "full" # available options: 1) summary 2) full
   # summary - includes a short summary of the blog post in the RSS feed. Generated using Hugo .Summary .
   # full - includes full blog post in the RSS feed. Generated using Hugo .Content .
   # By default (or if nothing is specified), summary is used.
@@ -100,10 +94,11 @@ theme = "hugo-blog-awesome"
 [Languages.en-gb.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Kristofer Hallén's blog"
+  intro = "Kristofer Hallén"
   name = "Kristofer Hallén"
- description = "Software development thoughts by Kristofer Hallén."
- contactinfo = "Talk to me on [Bluesky](https://bsky.app/profile/kristoferhallen.bsky.social)."
+  tagline = "Strategic Product Manager for CI/CD · Ericsson"
+  description = "I write about software development, technical leadership, and engineering strategy — mostly from a CI/CD and platform perspective. These posts are how I test ideas and sharpen my thinking."
+  contactinfo = "Talk to me on [Bluesky](https://bsky.app/profile/kristoferhallen.bsky.social) or [LinkedIn](https://www.linkedin.com/in/kristoferhallen/)."
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
   name = "sitename" # will use "params.sitename" or "title" by default
@@ -121,15 +116,15 @@ theme = "hugo-blog-awesome"
 [params.browserconfig]
   TileColor = "#2d89ef" # default windows 10 blue tile color
 
-# [[params.socialIcons]]
-# name = "github"
-# url = "https://github.com/hugo-sid"
+[[params.socialIcons]]
+name = "bluesky"
+url = "https://bsky.app/profile/kristoferhallen.bsky.social"
 
-# [[params.socialIcons]]
-# name = "twitter"
-# url = "https://twitter.com"
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/kristoferhallen/"
 
-# [[params.socialIcons]]
-# name = "Rss"
-# url = "/index.xml"
+[[params.socialIcons]]
+name = "Rss"
+url = "/index.xml"
 

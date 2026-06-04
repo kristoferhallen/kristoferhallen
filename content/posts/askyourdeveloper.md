@@ -2,7 +2,7 @@
 title: 'Book review: Ask your developer'
 date: 2025-02-16
 draft: false
-tags: ["Software development", "scale up"]
+tags: ["software development", "scale up"]
 ---
 
 

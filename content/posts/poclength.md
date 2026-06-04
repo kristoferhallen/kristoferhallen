@@ -2,7 +2,7 @@
 title: 'How long is a Poc?'
 date: 2024-10-25
 draft: false
-tags: ["PoC", "howfastisfast"]
+tags: ["poc", "howfastisfast"]
 ---
 In software development many do proof of concepts ([PoC](https://en.wikipedia.org/wiki/Proof_of_concept#Software_development)), "a realization of a certain idea, method or principle in order to demonstrate its feasibility, or viability, or a demonstration in principle with the aim of verifying that some concept or theory has practical potential." In this post I wanted to get an understanding of if there is some kind of de facto agreement on the lenght of PoCs. (Part of trying to answer the question [How fast is fast in software development?](/tags/howfastisfast)) Why? In many organisations I have seen the term PoC being used for long projects (months, years) and I think there is a value in having a common understanding in terms that we use, such as PoCs. Otherwise you might have very different expectations on the activity. 
 

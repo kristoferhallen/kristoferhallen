@@ -2,7 +2,7 @@
 title: 'My Software development principles'
 date: 2025-04-27
 draft: false
-tags: ["Principles", "strategy", ]
+tags: ["principles", "strategy"]
 ---
 
 This is a test to put into words what I have learned and believe about software development. Will probably change when learn more so this blog post will probably be updated. There are two parts, principles, ideas I consider proven, and hypotheses, ideas that seem reasonable but that I want to test more before considering them proven. 

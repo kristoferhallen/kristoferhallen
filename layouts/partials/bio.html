@@ -8,5 +8,9 @@
         height="{{ .Height }}" />
     {{ end }}
     <h2 class="author-name">{{ .Site.Params.author.intro }}</h2>
-    <p class="author-bio">{{ .Site.Params.author.description }}{{.Site.Params.author.contactinfo | .RenderString}}</p>
+    {{ with .Site.Params.author.tagline }}
+    <p class="author-tagline">{{ . }}</p>
+    {{ end }}
+    <p class="author-bio">{{ .Site.Params.author.description }}</p>
+    <p class="author-contact">{{.Site.Params.author.contactinfo | .RenderString}}</p>
 </div>

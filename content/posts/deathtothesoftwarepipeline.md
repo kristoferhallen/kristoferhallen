@@ -2,7 +2,7 @@
 title: 'Death to the software pipeline!'
 date: 2024-10-09
 draft: false
-tags: ["CI pipeline", "Software pipeline", "Software testing"]
+tags: ["ci pipeline", "software pipeline", "software testing"]
 ---
 
 CI pipelines, CD pipelines, devops pipelines, why do we talk so much about pipelines?

@@ -2,7 +2,7 @@
 title: 'Events in CICD'
 date: 2025-03-09
 draft: false
-tags: ["CICD", "events"]
+tags: ["cicd", "events"]
 ---
 
 What do you do when you have a large scale setup of build, integration, test and release pipelines that continuously evolve?

@@ -1,11 +1,12 @@
 ---
-title: 'My motivation for blogging'
+title: 'Something like you will never scale efficiently without responsibility'
 date: 2024-09-28
 draft: true
 tags: []
 ---
-Help myself think. Improve my reasoning. Testing ideas.
 
-Improve my writing. Writing is an important way of communication as a technical leader. 
+Consensus does not scale. You have to have people that are responsible
 
-Maybe it is useful for someone else
+claire vo 🖤 på X: ”Great thread by @mipsytipsy on power symmetry in organizations. I could get “never confuse lack of clarity with empowerment” tattooed on my forehead. One of the most impt jobs of managers and leaders is to internalize purpose &amp; communicate it clearly. Direction ≠…” / X
+
+https://twitter.com/mipsytipsy/status/1620693675293691907

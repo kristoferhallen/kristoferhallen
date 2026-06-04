@@ -2,7 +2,7 @@
 title: 'Book review: The unicorn project'
 date: 2025-01-12
 draft: false
-tags: ["devops", "accelerate", "Gene Kim"]
+tags: ["devops", "accelerate", "gene kim"]
 ---
 
 ![The unicorn project book cover](/theunicornproject.jpg#floatleft) The Unicorn project is a book about how to (and how not to) develop software in a large company. How do you go from an inefficient, slow and frustrating work environment to a setup where you deliver value fast and people are happy to go to work? Gene Kim's (the author) answer is DevOps, create teams that understand the business, can work end to end from business need to deployed software and that can do experiments, learn from the deployment and improve. 
