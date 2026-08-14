@@ -183,3 +183,10 @@ html.dark {
     }
   }
 }
+
+// Float small images left, e.g. book covers: ![alt](/cover.jpg#floatleft)
+img[src$='#floatleft'] {
+  float: left;
+  width: 100px;
+  padding-right: 10px;
+}
