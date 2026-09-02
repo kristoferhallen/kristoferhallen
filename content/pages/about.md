@@ -10,11 +10,8 @@ This blog is where I test ideas and sharpen my thinking about software developme
 Talk to me on [Bluesky](https://bsky.app/profile/kristoferhallen.bsky.social) or [LinkedIn](https://www.linkedin.com/in/kristoferhallen/).
 
 
-## Upcoming talks
-* 29 August – 2 September 2026 [EMEASEC 2026](https://events.incose.org/event/emeasec26/), Linköping, Sweden
-
-
 ## Past talks
+* September 2026 [EMEASEC 2026](https://events.incose.org/event/emeasec26/), Linköping, Sweden
 * May 2026 [Stockholm Tech Show](https://stockholmtechshow.se/talarprogram-2026/?selectedRooms=81)
 * November 2025 [Devlin2025](https://www.youtube.com/watch?v=scEKbz3e-Lo)
 * October 2025 [The Future of Software Stockholm](https://www.thefutureofsoftware.com/stockholm)
@@ -22,6 +19,7 @@ Talk to me on [Bluesky](https://bsky.app/profile/kristoferhallen.bsky.social) or
 
 
 ## Publications
+* [Change: A Structured Method for the Technical Leader and his/her Organisation](https://www.researchgate.net/publication/413765216_Change_A_Structured_Method_for_the_Technical_Leader_and_hisher_Organisation)
 * [Developing Complete End-to-End CI/CD Pipelines at Ericsson](https://cd.foundation/blog/2023/05/02/cdf-user-story-by-ericsson/)
 * [How software production using events helps to bring software securely to customers](https://www.ericsson.com/en/blog/2022/11/software-production-event-driven-architectures)
 * [Achieving traceability in large scale continuous integration and delivery deployment, usage and validation of the eiffel framework](https://link.springer.com/article/10.1007/s10664-016-9457-1). D Ståhl, K Hallén, J Bosch. Empirical Software Engineering 22 (3), 967-995. 2017
