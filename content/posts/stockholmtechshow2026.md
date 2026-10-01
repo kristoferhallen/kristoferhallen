@@ -1,5 +1,6 @@
 ---
 title: 'Reflections from Stockholm Tech Show talk 2026'
+description: "What DevOps looks like for large-scale hardware-software products: flow, build vs. buy vs. own, system responsibility and pragmatic AI."
 date: 2026-05-29
 draft: false
 tags: ["conference", "trends", "stockholm tech show"]

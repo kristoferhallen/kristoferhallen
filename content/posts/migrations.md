@@ -1,5 +1,6 @@
 ---
 title: 'Zeno´s migration'
+description: "Migrations from A to B often never finish because A is unclear and B keeps moving. Manage an acceptable ecosystem and continuous change instead."
 date: 2024-09-28
 draft: false
 tags: ["migration"]

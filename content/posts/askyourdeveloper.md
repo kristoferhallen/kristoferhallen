@@ -1,5 +1,7 @@
 ---
 title: 'Book review: Ask your developer'
+description: "Review of Jeff Lawson's Ask Your Developer: clear team missions, fewer dependencies instead of more collaboration, and cheap experiments to learn fast."
+images: ["/askyourdeveloper.jpg"]
 date: 2025-02-16
 draft: false
 tags: ["software development", "scale up"]

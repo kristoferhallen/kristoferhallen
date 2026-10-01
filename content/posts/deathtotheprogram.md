@@ -1,5 +1,6 @@
 ---
 title: 'Death to the program! Long live the project.'
+description: "Why never-ending programs lose focus on delivery and celebration, and why time-boxed projects with clear deliverables work better in software."
 date: 2024-12-08
 draft: false
 tags: ["program", "project", "rest", "celebrate"]

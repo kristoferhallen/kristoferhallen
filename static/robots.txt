@@ -23,32 +23,11 @@ Disallow: /components/
 Disallow: /.env
 Disallow: /.git/
 
-# Block AI training bots
-User-agent: GPTBot
-Disallow: /
+# AI-crawlers (GPTBot, ClaudeBot, PerplexityBot m.fl.) är tillåtna via
+# "User-agent: *" ovan, så att inläggen kan citeras. Se även /llms.txt.
 
-User-agent: Google-Extended
-Disallow: /
-
-User-agent: CCBot
-Disallow: /
-
-User-agent: anthropic-ai
-Disallow: /
-
-User-agent: ClaudeBot
-Disallow: /
-
-User-agent: cohere-ai
-Disallow: /
-
-User-agent: PerplexityBot
-Disallow: /
-
+# Blockera aggressiva scrapers
 User-agent: Bytespider
-Disallow: /
-
-User-agent: Amazonbot
 Disallow: /
 
 User-agent: omgili

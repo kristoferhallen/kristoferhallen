@@ -1,5 +1,6 @@
 ---
 title: 'Reflections from EMEASEC 2026'
+description: "Reflections from presenting the paper Change: A Structured Method for the Technical Leader and his/her Organisation at INCOSE EMEASEC 2026."
 date: 2026-09-02
 draft: false
 tags: ["conference", "systems engineering", "technical leadership", "EMEASEC"]

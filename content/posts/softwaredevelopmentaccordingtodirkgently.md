@@ -1,5 +1,6 @@
 ---
 title: 'Your CI pipeline is an Electric Monk - Software development according to Dirk Gently'
+description: "Your CI pipeline is Douglas Adams' Electric Monk: it believes your build is fine so you don't have to. What that means for testing and trust."
 date: 2026-08-05
 draft: false
 tags: ["leadership", "cicd", "Dirk Gently", "testing"]

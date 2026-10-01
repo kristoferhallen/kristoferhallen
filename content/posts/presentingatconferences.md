@@ -1,5 +1,6 @@
 ---
 title: 'Presenting at external conferences helps you improve internally'
+description: "Preparing an external conference talk forces you to understand why your company does what it does: a free internal audit with high ROI."
 date: 2025-11-03
 draft: false
 tags: ["conference", "trends"]

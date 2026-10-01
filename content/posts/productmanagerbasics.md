@@ -1,5 +1,6 @@
 ---
 title: 'Starting as a software product manager - what is it?'
+description: "What a software product manager does: own the what and the why, understand customers and connect product goals to business objectives."
 date: 2025-09-14
 draft: false
 tags: ["software development", "product manager"]

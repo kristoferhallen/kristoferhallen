@@ -1,5 +1,6 @@
 ---
 title: 'Events in CICD'
+description: "How event-driven CI/CD at Ericsson decouples pipelines, so you can swap tools or add pipelines without breaking the rest of the product flow."
 date: 2025-03-09
 draft: false
 tags: ["cicd", "events"]

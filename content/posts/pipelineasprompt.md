@@ -1,5 +1,6 @@
 ---
 title: 'From Pipeline Plumbers to Pipeline Architects: Pipeline as Prompt'
+description: "After Pipeline as Code comes Pipeline as Prompt: describe goals and constraints and let an AI agent generate and maintain your CI/CD pipeline."
 date: 2026-01-20
 draft: false
 tags: ["ai", "prompt", "cicd", "pipeline"]

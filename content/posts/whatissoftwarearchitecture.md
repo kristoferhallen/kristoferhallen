@@ -1,5 +1,7 @@
 ---
 title: 'What is (software) architecture'
+description: "Is software architecture needed, and is the architect a real role? Prompted by a conversation with Charity Majors."
+images: ["/observability.jpg"]
 date: 2024-12-15
 draft: false
 tags: ["architecture", "systemization", "martin fowler"]

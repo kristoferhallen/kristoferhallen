@@ -1,5 +1,6 @@
 ---
 title: 'Does is matter if I call it a PoC or MVP?'
+description: "PoC, MVP or product? Calling an activity the wrong thing confuses users and stakeholders. Shared, precise names prevent wasted effort."
 date: 2024-11-17
 draft: false
 tags: ["poc", "mvp", "devops"]

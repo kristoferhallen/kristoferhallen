@@ -1,5 +1,6 @@
 ---
 title: 'What’s Slowing You Down? Diving into Lead Time for Changes'
+description: "Lead time for changes, from identified need to deployed solution: the factors that slow it down and where to focus to improve it."
 date: 2025-02-24
 draft: false
 tags: ["speed of change", "measurements"]

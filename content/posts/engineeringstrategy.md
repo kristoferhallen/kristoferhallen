@@ -1,5 +1,6 @@
 ---
 title: 'What is an engineering strategy'
+description: "What an engineering strategy really is, using Will Larson's take on Richard Rumelt: diagnosis, guiding policies and coherent actions."
 date: 2025-04-12
 draft: false
 tags: ["engineering strategy", "strategy"]

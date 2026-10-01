@@ -1,5 +1,6 @@
 ---
 title: 'AI experiments: what I have built so far'
+description: "A product manager's AI assistant in the terminal that gathers context from calendar, mail, tracker and budget data to prepare decisions, not make them."
 date: 2026-07-13
 draft: false
 tags: ["ai", "product manager", "experiments"]

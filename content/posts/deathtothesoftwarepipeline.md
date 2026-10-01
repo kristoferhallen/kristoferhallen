@@ -1,5 +1,6 @@
 ---
 title: 'Death to the software pipeline!'
+description: "Stop obsessing over pipelines. Start from what must happen to your code before it ships, then build pipelines around those activities."
 date: 2024-10-09
 draft: false
 tags: ["ci pipeline", "software pipeline", "software testing"]

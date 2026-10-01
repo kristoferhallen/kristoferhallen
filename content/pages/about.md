@@ -1,5 +1,6 @@
 ---
 title: "About"
+description: "Kristofer Hallén is Strategic Product Manager for CI/CD at Ericsson, with a background in software development, architecture and research. Talks and publications."
 author: Kristofer Hallén
 ---
 

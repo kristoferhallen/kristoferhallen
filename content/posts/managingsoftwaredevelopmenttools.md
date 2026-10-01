@@ -1,5 +1,6 @@
 ---
 title: 'Managing your software development tools'
+description: "Managing a tool portfolio: a golden path, not a golden cage. Own the function, buy over build, mind total cost and set a high bar for replacement."
 date: 2025-12-14
 draft: false
 tags: ["software development", "tools"]

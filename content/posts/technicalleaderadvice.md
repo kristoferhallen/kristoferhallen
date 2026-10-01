@@ -1,5 +1,6 @@
 ---
 title: 'How not to get stuck with solutions to problems you helped fix'
+description: "Called in to fix an urgent problem? Ask who will own the solution before you start, or you will end up owning every problem you solve."
 date: 2024-10-07
 draft: false
 tags: ["advice", "technical leader", "firefighting"]

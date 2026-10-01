@@ -1,5 +1,7 @@
 ---
 title: 'Book review: Modern software engineering'
+description: "Review of David Farley's Modern Software Engineering: iterating on a waterfall plan is not enough. You must create, run, learn and change."
+images: ["/modernsoftwareengineering.jpg"]
 date: 2025-01-27
 draft: false
 tags: ["devops", "software engineering", "waterfall"]

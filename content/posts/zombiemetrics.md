@@ -1,5 +1,6 @@
 ---
 title: 'Zombie Metrics — The KPIs Nobody Acts On'
+description: "Zombie metrics are KPIs with no owner and no threshold that triggers action. They cost effort, add no value and multiply on dashboards."
 date: 2026-05-15
 draft: false
 tags: ["kpi", "metrics"]

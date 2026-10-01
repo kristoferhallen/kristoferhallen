@@ -1,5 +1,6 @@
 ---
 title: 'The Consulting Detective´s Guide to Software Development: Lessons from Sherlock Holmes'
+description: "Lessons for software developers from Sherlock Holmes: partner for perspective, build your network, observe and follow the evidence."
 date: 2025-03-15
 draft: false
 tags: ["software development", "sherlock holmes"]

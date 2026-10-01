@@ -1,5 +1,6 @@
 ---
 title: 'What Should Product Managers Measure for Internal Products?'
+description: "What product managers of internal developer products should measure, when every investment must justify itself against other priorities."
 date: 2025-10-13
 draft: false
 tags: ["measurements", "product management"]

@@ -1,5 +1,6 @@
 ---
 title: 'My personal (AI) review board'
+description: "An AI review board of six personas that gives several perspectives on documents, proposals and business cases instead of a single voice."
 date: 2026-09-23
 draft: false
 tags: ["AI", "review"]

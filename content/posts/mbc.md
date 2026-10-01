@@ -1,5 +1,6 @@
 ---
 title: 'Management by cookies'
+description: "Management by Cookies, a playful leadership philosophy: small, tangible acts of kindness build stronger and more resilient teams."
 date: 2025-09-21
 draft: false
 tags: ["leadership", "cookies"]

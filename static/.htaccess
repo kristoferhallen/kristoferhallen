@@ -4,21 +4,15 @@
 ErrorDocument 404 /404.html
 
 Options -Indexes
-RewriteEngine On
 
-# --- 301: WordPress-sökvägar → startsidan ---
-RewriteRule ^wp-admin(/.*)?$ / [R=301,L]
-RewriteRule ^wp-includes(/.*)?$ / [R=301,L]
-RewriteRule ^wp-content(/.*)?$ / [R=301,L]
-RewriteRule ^wp-login\.php$ / [R=301,L]
-RewriteRule ^xmlrpc\.php$ / [R=301,L]
-RewriteRule ^wp-cron\.php$ / [R=301,L]
-RewriteRule ^wp-config\.php$ / [R=301,L]
+# --- 301: alternativt sitemap-namn som crawlers letar efter ---
+Redirect 301 /sitemap_index.xml /sitemap.xml
 
-# --- 301: Joomla-sökvägar → startsidan ---
-RewriteRule ^media/system(/.*)?$ / [R=301,L]
-RewriteRule ^administrator(/.*)?$ / [R=301,L]
-RewriteRule ^components(/.*)?$ / [R=301,L]
-RewriteRule ^modules(/.*)?$ / [R=301,L]
-RewriteRule ^plugins(/.*)?$ / [R=301,L]
-RewriteRule ^templates(/.*)?$ / [R=301,L]
+# --- 403: skanningar efter WordPress/Joomla/andra CMS ---
+# Direkt 403 utan Hugos 404-sida (eller startsidan) sparar bandbredd.
+# Sajten är Hugo, så inga riktiga URL:er börjar med dessa sökvägar.
+RedirectMatch 403 ^/(?:wp-admin|wp-content|wp-includes|wp-login\.php|wp-cron\.php|wp-config\.php|xmlrpc\.php|wordpress|wp|(?:blog|shop|test|new)/wp-[^/]*|joomla|administrator|media/system|components|modules|plugins|templates|phpmyadmin|portal|site|old|cms)(/|$)
+# Dubbelsnedstreck-probes (//xmlrpc.php, //wp-includes/...)
+RedirectMatch 403 ^//.*
+# .env-skannrar
+RedirectMatch 403 ^/\.env$

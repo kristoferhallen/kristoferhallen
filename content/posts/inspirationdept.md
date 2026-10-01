@@ -1,5 +1,6 @@
 ---
 title: 'Inspiration Debt — When learning becomes a substitute for doing'
+description: "Reading, talks and newsletters feel like progress, but inspiration you never apply piles up as debt. Learning has to turn into doing."
 date: 2026-02-09
 draft: false
 tags: ["learning", "doing"]

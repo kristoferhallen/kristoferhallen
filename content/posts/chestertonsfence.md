@@ -1,5 +1,6 @@
 ---
 title: 'Chesterton´s fence and being proud of what you have'
+description: "Chesterton's fence says understand before you change. The other side: be proud of the solutions you already have before rushing to migrate."
 date: 2025-02-02
 draft: false
 tags: ["chesterton", "migration"]

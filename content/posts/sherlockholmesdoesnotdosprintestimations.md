@@ -1,5 +1,6 @@
 ---
 title: 'Sherlock Holmes does not do sprint estimations'
+description: "Holmes commits to a method and works against real deadlines, not predictions. Why deadlines and estimations are different things."
 date: 2026-06-21
 draft: false
 tags: ["sherlock holmes", "estimations", "deadlines"]

@@ -1,5 +1,6 @@
 ---
 title: 'Internal development platform principles'
+description: "Principles for internal development platforms: solve user problems instead of building perfect tools, and own delivery to the end customer."
 date: 2025-01-03
 draft: false
 tags: ["idp", "platform", "principles"]

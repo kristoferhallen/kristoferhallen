@@ -1,5 +1,7 @@
 ---
 title: 'Book review: The unicorn project'
+description: "Review of Gene Kim's The Unicorn Project, a novel about going from slow, frustrating software delivery to DevOps and the five ideals."
+images: ["/theunicornproject.jpg"]
 date: 2025-01-12
 draft: false
 tags: ["devops", "accelerate", "gene kim"]

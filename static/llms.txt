@@ -1,0 +1,32 @@
+# kristoferhallen.com
+
+> Essays by Kristofer Hallén, Strategic Product Manager for CI/CD at Ericsson, on software development, technical leadership and engineering strategy, mostly from a CI/CD and platform perspective. The posts are opinionated and draw on large-scale software–hardware development, DevOps and well-known books on the field.
+
+## Essays
+
+- [The Invisible Leadership Role - Why Technical Leaders Deserve a Seat at the Table](https://kristoferhallen.com/posts/technicalleadership/): Technical leaders hold products together across organisation, project and product, yet most companies have no name, career path or recognition for them.
+- [Defining the Invisible Leaders - The Technical Leader Role](https://kristoferhallen.com/posts/technicalleadership2/): Defines the technical leader role, using the NASA chief engineer and T-shaped leaders as models for someone acting at the intersection of technology, people and business.
+- [From Pipeline Plumbers to Pipeline Architects: Pipeline as Prompt](https://kristoferhallen.com/posts/pipelineasprompt/): After Pipeline as Code comes Pipeline as Prompt: describe goals and constraints, and let an AI agent generate and maintain the CI/CD pipeline.
+- [Zombie Metrics — The KPIs Nobody Acts On](https://kristoferhallen.com/posts/zombiemetrics/): Metrics with no owner and no threshold that triggers action cost effort and give no value; how to spot them and kill them.
+- [How long is a Poc?](https://kristoferhallen.com/posts/poclength/): An overview of how long a software proof of concept should take, and why a short timebox matters.
+- [Inspiration Debt — When learning becomes a substitute for doing](https://kristoferhallen.com/posts/inspirationdept/): Reading, talks and newsletters feel like progress, but unapplied inspiration piles up as debt; learning has to turn into doing.
+- [AI experiments: what I have built so far](https://kristoferhallen.com/posts/aiexperiments/): A product manager's terminal-based AI assistant that gathers context from calendar, mail, tracker and budget data to prepare decisions without making them.
+- [My personal (AI) review board](https://kristoferhallen.com/posts/mypersonalaireviewboard/): Using an AI "board" of six reviewer personas to get several perspectives on documents, proposals and business cases instead of one voice.
+- [Sherlock Holmes does not do sprint estimations](https://kristoferhallen.com/posts/sherlockholmesdoesnotdosprintestimations/): Holmes commits to a method and works against real external deadlines rather than predictions; the difference between deadlines and estimations.
+- [Your CI pipeline is an Electric Monk - Software development according to Dirk Gently](https://kristoferhallen.com/posts/softwaredevelopmentaccordingtodirkgently/): A CI pipeline that "believes" the build is fine on your behalf is Douglas Adams' Electric Monk; what that means for testing and trust.
+- [The sofa in the stairwell - Software development according to Dirk Gently](https://kristoferhallen.com/posts/thesofainthestairwell/): Some legacy states cannot be explained or undone; stop pulling, build around them and document that they should not work so nobody pays for the discovery twice.
+- [The bug is in Bahamas - Software development according to Dirk Gently](https://kristoferhallen.com/posts/thebugisinbahamas/): Dirk Gently's belief in the interconnectedness of all things as a model for good incident response and debugging.
+- [The interconnected invoice - Software development according to Dirk Gently](https://kristoferhallen.com/posts/theinterconnectedinvoice/): A defect costs what its coupling costs, not what the fix costs, which is why estimates of one-line fixes go wrong.
+- [Book review: Modern software engineering](https://kristoferhallen.com/posts/modernsoftwareengineering/): Review of David Farley's book; iterative development is not enough if you keep the waterfall plan, you must create, run, learn and change.
+- [Reflections from Stockholm Tech Show talk 2026](https://kristoferhallen.com/posts/stockholmtechshow2026/): What DevOps looks like for large-scale hardware–software products: flow, build vs. buy vs. own, system responsibility and pragmatic AI in the pipeline.
+- [Managing your software development tools](https://kristoferhallen.com/posts/managingsoftwaredevelopmenttools/): Principles for a tool portfolio: golden path not golden cage, own the function not the tool, buy over build, total cost of ownership and a high bar for replacement.
+- [What is (software) architecture](https://kristoferhallen.com/posts/whatissoftwarearchitecture/): Whether software architecture and the architect role are needed, prompted by Charity Majors calling architect "a bullshit role".
+- [When to change tools or technology](https://kristoferhallen.com/posts/whentochange/): The "10x rule": only change tool or technology when the new option is at least ten times better in cost, speed or user experience.
+- [Process does not take ownership](https://kristoferhallen.com/posts/processisnotenough/): Processes do not care about outcomes, people do; a "trust the process" culture lets projects do the wrong things.
+- [What Should Product Managers Measure for Internal Products?](https://kristoferhallen.com/posts/productmeasurements/): What to measure as a product manager for internal developer products, where every investment must justify itself against other priorities.
+
+## About
+
+- [About Kristofer Hallén](https://kristoferhallen.com/pages/about/): Background, past talks and publications.
+- [All posts](https://kristoferhallen.com/posts/)
+- [RSS feed](https://kristoferhallen.com/index.xml)

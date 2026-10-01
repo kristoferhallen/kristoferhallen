@@ -1,5 +1,6 @@
 ---
 title: 'Process does not take ownership'
+description: "Processes don't care about outcomes, people do. A 'trust the process' culture lets projects do the wrong things without anyone speaking up."
 date: 2025-06-08
 draft: false
 tags: ["change", "tools" ]

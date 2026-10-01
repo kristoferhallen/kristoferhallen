@@ -1,5 +1,6 @@
 ---
 title: 'Reflections from The future of software conference 2025'
+description: "Takeaways from The Future of Software 2025: physical-product companies need a voice, platform engineering is a mindset, and AI helps beyond code."
 date: 2025-11-18
 draft: false
 tags: ["conference", "trends","thefutureofsoftwareconference"]

@@ -1,5 +1,7 @@
 ---
 title: 'How long is a Poc?'
+description: "How long should a software proof of concept take? An overview of what different sources recommend and why a short timebox matters."
+images: ["/poclength.png"]
 date: 2024-10-25
 draft: false
 tags: ["poc", "howfastisfast"]
