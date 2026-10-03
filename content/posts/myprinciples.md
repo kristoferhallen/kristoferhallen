@@ -1,5 +1,6 @@
 ---
 title: 'My Software development principles'
+description: "My software development principles and hypotheses: deliver value within three months, value means deployed and used, projects over programs."
 date: 2025-04-27
 draft: false
 tags: ["principles", "strategy"]
@@ -20,7 +21,7 @@ It does not have to be all the value. But if you have not been able to deploy so
 Value is not: a plan, an architecture, a part of the solution that can’t be used yet. 
 
 ## Projects over programs. 
-[Death to the program! Long live the project.](https://kristoferhallen.com/posts/deathtotheprogram/)
+[Death to the program! Long live the project.]({{< relref "deathtotheprogram.md" >}})
 
 ## Focus on impact over activities. 
 Activities are tasks like writing code or deploying; impact is the actual effect and value created.

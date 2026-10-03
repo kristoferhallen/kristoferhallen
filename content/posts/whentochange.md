@@ -1,11 +1,12 @@
 ---
 title: 'When to change tools or technology'
+description: "The 10x rule: only change tools or technology when the new option is at least ten times better in cost, speed or user experience."
 date: 2025-06-08
 draft: false
 tags: ["change", "tools" ]
 ---
 
-I have written about being [proud of the solutions you have](https://kristoferhallen.com/posts/chestertonsfence/). But how do you know when it is time to change and start using a new tool or technology? 
+I have written about being [proud of the solutions you have]({{< relref "chestertonsfence.md" >}}). But how do you know when it is time to change and start using a new tool or technology? 
 
 I end up in a "10 times rule". If changing means that you get at least 10 times better. Better could be cost, user experience, speed or something else. 
 

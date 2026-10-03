@@ -1,5 +1,6 @@
 ---
 title: 'The Invisible Leadership Role - Why Technical Leaders Deserve a Seat at the Table'
+description: "Technical leaders hold products together across organisation, project and product, yet most companies have no name or career path for them."
 date: 2026-02-22
 draft: false
 tags: ["leadership", "technical leader"]
@@ -33,4 +34,4 @@ Yet, most organisations treat this vital role as an afterthought, taking it for 
 # What’s next
 
 When we fail to recognise and develop these leaders, we don't just lose individual contributors; we lose the technical coherence that makes great products possible. It's time to bring technical leaders out of the shadows and give them the recognition, support, and career development they deserve! Your organisation's technical future depends on it. 
-However, we have seen that companies often have no clear terms for them. There is often no collective image within the organisation of who they are as a group, and what function they have for the product and the capabilities of the company. In upcoming [part #2](/posts/technicalleadership2/) of this article series we will dig deeper into what technical leadership is, to enable a common understanding of the role. 
+However, we have seen that companies often have no clear terms for them. There is often no collective image within the organisation of who they are as a group, and what function they have for the product and the capabilities of the company. In upcoming [part #2]({{< relref "technicalleadership2.md" >}}) of this article series we will dig deeper into what technical leadership is, to enable a common understanding of the role. 

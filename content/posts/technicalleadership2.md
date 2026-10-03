@@ -1,5 +1,7 @@
 ---
 title: 'Defining the Invisible Leaders - The Technical Leader Role'
+description: "Defining the technical leader role, with the NASA chief engineer and T-shaped leaders as models for leading at the intersection of disciplines."
+images: ["/technicalleaderintersection.png"]
 date: 2026-03-18
 draft: false
 tags: ["leadership", "technical leader"]
@@ -8,7 +10,7 @@ tags: ["leadership", "technical leader"]
 This is the second article in a series about technical readership that I write together with [Johanna Wallén Axehill
 ](https://www.linkedin.com/in/johanna-axehill-61584514a/)
 
-In [part #1](/posts/technicalleadership/) of our technical leadership article series, we described how technical leaders often go unseen in most tech organisations, despite being vital to product success, team growth, long-term technology development and product health. The lack of formal recognition and support traps these essential contributors in organisational blind spots — and that needs to change.
+In [part #1]({{< relref "technicalleadership.md" >}}) of our technical leadership article series, we described how technical leaders often go unseen in most tech organisations, despite being vital to product success, team growth, long-term technology development and product health. The lack of formal recognition and support traps these essential contributors in organisational blind spots — and that needs to change.
 
 There are many views of what a technical leader is. Yet, it is not easy to be defined. To understand the role, let us start with a concrete example: the NASA chief engineer.
 
