@@ -21,7 +21,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-      GOATCOUNTER_VERSION: v2.7.0
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -50,18 +49,11 @@ jobs:
           done
           ls x-*/ | head -50
 
-      - name: Filter page views
-        run: |
-          python3 scripts/filter_access_log.py \
-            --from ${{ steps.dates.outputs.from }} --to ${{ steps.dates.outputs.to }} \
-            $(find logs -path '*/x-*' -name '*.log*' ! -name '*error*') > pageviews.log
-
       - name: Import to GoatCounter
         env:
           GOATCOUNTER_API_KEY: ${{ secrets.GOATCOUNTER_API_KEY }}
         run: |
-          if [ ! -s pageviews.log ]; then echo "No page views to import"; exit 0; fi
-          curl -sSL "https://github.com/arp242/goatcounter/releases/download/$GOATCOUNTER_VERSION/goatcounter-$GOATCOUNTER_VERSION-linux-amd64.gz" | gunzip > goatcounter
-          chmod +x goatcounter
-          ./goatcounter import -silent -format=combined \
-            -site=https://kristoferhallen.goatcounter.com pageviews.log
+          python3 scripts/filter_access_log.py \
+            --site https://kristoferhallen.goatcounter.com \
+            --from ${{ steps.dates.outputs.from }} --to ${{ steps.dates.outputs.to }} \
+            $(find logs -path '*/x-*' -name '*.log*' ! -name '*error*')
