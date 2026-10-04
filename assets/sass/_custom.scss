@@ -190,3 +190,92 @@ img[src$='#floatleft'] {
   width: 100px;
   padding-right: 10px;
 }
+
+// ---------------------------------------------------------------------------
+// Reading polish (DESIGN.md sections 2–3)
+// Body 17px phone / 18px desktop, line height 1.6, measure ≤ 75 characters,
+// solid muted colours instead of opacity, no faux bold.
+// ---------------------------------------------------------------------------
+
+$muted: #5f6b78;       // 5.4:1 on white
+$dark-muted: #8a929a;  // 5.8:1 on #131418
+
+// Both dark-mode paths: the class set by the toggle, and the system setting
+// when no class is set.
+@mixin both-dark-modes {
+  html.dark & { @content; }
+  @media (prefers-color-scheme: dark) {
+    html:not(.light) & { @content; }
+  }
+}
+
+body {
+  font-size: 17px;
+  line-height: 1.6;
+
+  @media (min-width: $on-tablet) {
+    font-size: 18px;
+  }
+}
+
+// Reading column: about 34em of body text keeps lines under 75 characters.
+.wrapper {
+  max-width: 34em;
+}
+
+// Only 400 and 600 are loaded; anything bolder is faked by the browser.
+.page-content h1,
+.page-content h2,
+.page-content h3,
+.page-content h4,
+.page-content h5,
+.page-content h6,
+.footer span.footer_item,
+.posts-item-note {
+  font-weight: 600;
+}
+
+.home-post-excerpt {
+  font-size: 1em;
+}
+
+.home-post-date,
+.post-meta {
+  font-size: .85em;
+}
+
+.home-post-excerpt,
+.home-post-date,
+.post-meta,
+.author-tagline,
+.author-contact,
+.footer_copyright {
+  color: $muted;
+  opacity: 1;
+
+  @include both-dark-modes {
+    color: $dark-muted;
+  }
+}
+
+.footer a.footer_item,
+.footer span.footer_item,
+.author .author-bio,
+.menu .menu-link,
+.menu .menu-link.active {
+  opacity: 1;
+}
+
+blockquote {
+  opacity: 1;
+  border-left-width: 2px;
+}
+
+// One link colour everywhere (DESIGN.md: one `link` role).
+a:hover {
+  color: #1a5a9e;
+
+  @include both-dark-modes {
+    color: #5b8fc8;
+  }
+}
