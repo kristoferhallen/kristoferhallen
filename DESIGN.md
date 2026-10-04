@@ -189,7 +189,7 @@ on home, a long post, the post list, About and a tag page, at 375 px and
 | 6 | Faux bold | title, content headings and labels at 700/500 | **fixed**: 600 everywhere |
 | 7 | Small type on home | excerpt 14 px, date 12.8 px | **fixed**: excerpt at body size, dates 0.85em |
 | 8 | Link colours | two hover colours | **partly fixed**: one hover colour per mode; link colour outside posts still inherits text colour (theme) |
-| 9 | Fonts from Google | `fonts.googleapis.com`, `fonts.gstatic.com` | open: self-host (needs the font files downloaded) |
+| 9 | Fonts from Google | `fonts.googleapis.com`, `fonts.gstatic.com` | **fixed**: self-hosted in `static/fonts/source-serif-4/` (latin + latin-ext, OFL) |
 | 10 | Section headings in posts | 14 of 42 posts use `#` (h1) | open: content fix, separate change |
 | 11 | Home introduction | centred bio, no areas or proof | open: **build** + options |
 | 12 | Author note after posts | none | open: **build** |
