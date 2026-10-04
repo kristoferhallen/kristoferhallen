@@ -1,16 +1,11 @@
-{{ $avatar_img := .Site.Params.author.avatar }}
-{{ $avatar_img_alt := .Site.Params.author.name }}
-{{ $image := resources.Get $avatar_img }}
-<div class="author">
-    {{ with $image }}
-    {{ $image := $image.Fill "100x100 webp" }}
-    <img class="author-avatar" src="{{ $image.RelPermalink }}" alt="{{ $avatar_img_alt }}" width="{{ .Width }}"
-        height="{{ .Height }}" />
-    {{ end }}
-    <h2 class="author-name">{{ .Site.Params.author.intro }}</h2>
-    {{ with .Site.Params.author.tagline }}
-    <p class="author-tagline">{{ . }}</p>
-    {{ end }}
-    <p class="author-bio">{{ .Site.Params.author.description }}</p>
-    <p class="author-contact">{{.Site.Params.author.contactinfo | .RenderString}}</p>
-</div>
+{{- with site.Params.author }}
+<header class="intro">
+    <h1 class="intro-name">{{ .intro }}</h1>
+    <p class="intro-lead">{{ .lead }}</p>
+    <p class="intro-role">{{ .tagline }}</p>
+    <p class="intro-proof">{{ .proof | $.RenderString }}</p>
+    <p class="intro-links">
+        <a href="{{ .linkedin }}">Follow me on LinkedIn</a> · <a href="{{ "pages/about/" | relURL }}">Talks and publications</a>
+    </p>
+</header>
+{{- end }}

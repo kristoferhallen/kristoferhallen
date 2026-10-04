@@ -1,0 +1,8 @@
+{{- with site.Params.author }}
+<aside class="author-note" aria-label="About the author">
+    <p>{{ .note }}</p>
+    <p class="author-note-links">
+        <a href="{{ .linkedin }}">Follow me on LinkedIn</a> · <a href="{{ "pages/about/" | relURL }}">Talks and publications</a>
+    </p>
+</aside>
+{{- end }}

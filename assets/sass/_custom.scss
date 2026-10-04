@@ -117,22 +117,6 @@ html.dark {
   }
 }
 
-// Author tagline
-.author-tagline {
-  font-family: 'Source Serif 4', Georgia, serif;
-  font-size: .85em;
-  font-style: italic;
-  opacity: .6;
-  margin: 0 auto;
-  margin-bottom: 10px;
-}
-
-.author-contact {
-  font-family: 'Source Serif 4', Georgia, serif;
-  font-size: .88em;
-  opacity: .7;
-  margin-top: 6px;
-}
 
 // Typography override: Source Serif 4
 $serif-family: 'Source Serif 4', Georgia, serif;
@@ -148,12 +132,6 @@ h1, h2, h3, h4, h5, h6 {
 
 // Navbar links
 .menu-link {
-  font-family: $serif-family;
-}
-
-// Author block
-.author-name,
-.author-bio {
   font-family: $serif-family;
 }
 
@@ -273,8 +251,6 @@ body {
 .home-post-excerpt,
 .home-post-date,
 .post-meta,
-.author-tagline,
-.author-contact,
 .footer_copyright {
   color: $muted;
   opacity: 1;
@@ -286,7 +262,6 @@ body {
 
 .footer a.footer_item,
 .footer span.footer_item,
-.author .author-bio,
 .menu .menu-link,
 .menu .menu-link.active {
   opacity: 1;
@@ -304,4 +279,71 @@ a:hover {
   @include both-dark-modes {
     color: #5b8fc8;
   }
+}
+
+// ---------------------------------------------------------------------------
+// Author note after posts (DESIGN.md section 4): one short note, no box.
+// ---------------------------------------------------------------------------
+
+.author-note {
+  margin-top: 3em;
+  padding-top: 1.2em;
+  border-top: 1px solid $light;
+
+  p {
+    margin: 0 0 .5em;
+  }
+
+  .author-note-links {
+    color: $muted;
+  }
+
+  @include both-dark-modes {
+    border-top-color: $dark-smoke;
+
+    .author-note-links {
+      color: $dark-muted;
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Home introduction (DESIGN.md section 4): who, what, proof, how to follow.
+// ---------------------------------------------------------------------------
+
+.intro {
+  margin: 6rem 0 2.5em;  // clears the fixed navbar, as the theme's .author did
+
+  p {
+    margin: 0 0 .6em;
+  }
+}
+
+// Option C, chosen 2026-10-04: the name small, the statement of what the
+// site is about set large, like the first line of an essay.
+.intro-name {
+  font-size: 1.05em;
+  line-height: 1.4;
+  letter-spacing: .01em;
+  margin: 0 0 .8em;
+}
+
+.intro-lead {
+  font-size: 1.55em;
+  line-height: 1.3;
+  margin-bottom: .9em;
+}
+
+.intro-role,
+.intro-proof {
+  font-size: .95em;
+  color: $muted;
+
+  @include both-dark-modes {
+    color: $dark-muted;
+  }
+}
+
+.intro-links {
+  margin-top: 1em;
 }

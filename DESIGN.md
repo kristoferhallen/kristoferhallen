@@ -82,11 +82,19 @@ one sentence, a link to follow him on LinkedIn, and a link to the About page.
 Same note on every post; it serves following and visible expertise at once.
 
 **Home page.** Top: a short introduction that answers *who is this and why
-listen*. Name, one line on what he does, his two or three areas, and one line of
-proof (talks, Eiffel, publications). Then the list of recent posts: title,
-excerpt, date, separated by thin rules. Ends with a link to all posts. **[decide]**
-The layout of the introduction (centred block as today, or left-aligned like
-the start of an essay); render options.
+listen*, then the list of recent posts (title, excerpt, date, separated by thin
+rules) and a link to all posts. Introduction, in order: name (the page's `h1`),
+one sentence on what the site is about, role, one line of proof (Eiffel,
+recent talks), and "Follow me on LinkedIn · Talks and publications". Text lives
+in `hugo.toml` (`author.intro`, `lead`, `tagline`, `proof`, `linkedin`).
+**Decided 2026-10-04 (option C of three):** left-aligned; the name small
+(1.05em, 600); the lead sentence large (1.55em) like the first line of an
+essay; role and proof in `muted` at 0.95em. Options A (centred, as before) and
+B (letterhead) were rejected.
+
+**Author note after posts.** Built 2026-10-04: below a thin `border` rule, one
+first-person sentence from `author.note`, then "Follow me on LinkedIn · Talks
+and publications" in `muted`. Posts only (`layouts/partials/author-note.html`).
 
 **Talks / About.** Evidence over titles: talks with event, year and a link to
 video or slides, publications, Eiffel. A plain "how to invite me to speak" line
@@ -191,7 +199,7 @@ on home, a long post, the post list, About and a tag page, at 375 px and
 | 8 | Link colours | two hover colours | **partly fixed**: one hover colour per mode; link colour outside posts still inherits text colour (theme) |
 | 9 | Fonts from Google | `fonts.googleapis.com`, `fonts.gstatic.com` | **fixed**: self-hosted in `static/fonts/source-serif-4/` (latin + latin-ext, OFL) |
 | 10 | Section headings in posts | 14 of 42 posts use `#` (h1) | open: content fix, separate change |
-| 11 | Home introduction | centred bio, no areas or proof | open: **build** + options |
-| 12 | Author note after posts | none | open: **build** |
+| 11 | Home introduction | centred bio, no areas or proof | **fixed**: option C, see section 4 |
+| 12 | Author note after posts | none | **fixed**: see section 4 |
 | 13 | Talks | a list inside About | open: **build**, [decide] own page or not |
-| 14 | Home page has no h1 | author name is an h2 | open: make the name the page's h1 |
+| 14 | Home page has no h1 | author name is an h2 | **fixed**: the name is the `h1` |

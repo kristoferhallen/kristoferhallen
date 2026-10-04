@@ -97,14 +97,19 @@
   const styles = [...seen.values()];
 
   // Weights used vs loaded (a missing weight is synthesised: faux bold).
-  const loaded = new Set([...document.fonts].filter(f => f.status === 'loaded')
-    .map(f => `${f.family.replace(/"/g, '')}|${f.weight}|${f.style}`));
+  // A variable font reports its weight as a range ("400 600").
+  const faces = [...document.fonts].filter(f => f.status === 'loaded').map(f => {
+    const [lo, hi = lo] = String(f.weight).split(/\s+/).map(Number);
+    return { family: f.family.replace(/"/g, '').toLowerCase(), style: f.style, lo, hi };
+  });
   const fauxBold = [];
   document.querySelectorAll('h1,h2,h3,h4,strong,b,a,p,li,time,span').forEach(el => {
+    if (!el.checkVisibility({ visibilityProperty: true })) return;
     const s = getComputedStyle(el);
-    const fam = s.fontFamily.split(',')[0].replace(/"/g, '').trim();
-    const famLoaded = [...loaded].some(k => k.toLowerCase().startsWith(fam.toLowerCase() + '|'));
-    if (famLoaded && ![...loaded].some(k => k.toLowerCase() === `${fam}|${s.fontWeight}|${s.fontStyle}`.toLowerCase()))
+    const fam = s.fontFamily.split(',')[0].replace(/"/g, '').trim().toLowerCase();
+    const sameFamily = faces.filter(f => f.family === fam);
+    const w = +s.fontWeight;
+    if (sameFamily.length && !sameFamily.some(f => f.style === s.fontStyle && w >= f.lo && w <= f.hi))
       fauxBold.push(`${label(el)} ${s.fontWeight} ${s.fontStyle}`);
   });
 
