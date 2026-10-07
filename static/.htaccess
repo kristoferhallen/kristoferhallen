@@ -8,6 +8,9 @@ Options -Indexes
 # --- 301: alternativt sitemap-namn som crawlers letar efter ---
 Redirect 301 /sitemap_index.xml /sitemap.xml
 
+# --- 301: bytta post-slugs ---
+RedirectMatch 301 ^/posts/mbc/?$ /posts/management-by-cookies/
+
 # --- 403: skanningar efter WordPress/Joomla/andra CMS ---
 # Direkt 403 utan Hugos 404-sida (eller startsidan) sparar bandbredd.
 # Sajten är Hugo, så inga riktiga URL:er börjar med dessa sökvägar.
