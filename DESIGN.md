@@ -109,7 +109,11 @@ the author note (only when a next part is published). The series page
 the parts oldest first with the home list styling: title, description,
 "Part N · date". Templates: `layouts/partials/series-meta.html`,
 `layouts/series/term.html`. Hugo also emits `og:see_also` for the other
-parts.
+parts. The overview `/series/` (`layouts/series/taxonomy.html`, intro in
+`content/series/_index.md`) lists every series with its description and
+"N parts · years", most recently updated first. **Decided 2026-10-07:**
+"Series" replaces "Tags" in the menu; tag pages still exist and are linked
+from posts.
 
 **Post list and tag pages.** Title and date per line, grouped by year.
 

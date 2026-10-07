@@ -74,9 +74,9 @@ theme = "hugo-blog-awesome"
     url = '/about/'
     weight = 30
   [[Languages.en-gb.menu.main]]
-    pageRef="tags"
-    name = 'Tags'
-    url = '/tags/'
+    pageRef="series"
+    name = 'Series'
+    url = '/series/'
     weight = 40
 
 [Languages.en-gb.params]

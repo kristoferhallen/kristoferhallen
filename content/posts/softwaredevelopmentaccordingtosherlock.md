@@ -4,6 +4,7 @@ description: "Lessons for software developers from Sherlock Holmes: partner for 
 date: 2025-03-15
 draft: false
 tags: ["software development", "sherlock holmes"]
+series: ["Sherlock Holmes"]
 ---
 
 As an avid Sherlock Holmes reader and software engineer, I asked myself if the methods of the greatest detective are useful in a software development context. This isn't a handbook on software development, but wouldn’t your day be a little more exciting if you approached it like Sherlock Holmes? Here are key lessons developers can learn from the master of deduction:

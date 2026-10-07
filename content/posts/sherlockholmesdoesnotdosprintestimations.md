@@ -4,6 +4,7 @@ description: "Holmes commits to a method and works against real deadlines, not p
 date: 2026-06-21
 draft: false
 tags: ["sherlock holmes", "estimations", "deadlines"]
+series: ["Sherlock Holmes"]
 ---
 
 I have previously written about [Sherlock Holmes and software development]({{< relref "softwaredevelopmentaccordingtosherlock.md" >}}). What would be his opinion about planning estimations? He never promises Watson a timeline. He commits to a method: observe, reason, follow the evidence. "I'll have the murderer by Thursday" is not something Holmes says.
