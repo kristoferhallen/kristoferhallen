@@ -100,6 +100,17 @@ and publications" in `muted`. Posts only (`layouts/partials/author-note.html`).
 video or slides, publications, Eiffel. A plain "how to invite me to speak" line
 with contact. **[decide]** Keep this inside About or give talks their own page.
 
+**Series.** Built 2026-10-07. A post joins a series with
+`series: ["Name"]` in its frontmatter (taxonomy `series` in `hugo.toml`).
+On the post: "Part N of the X series" in `muted` at 0.85em under the date,
+and "Next in the series: <title>" as one plain line after the post, before
+the author note (only when a next part is published). The series page
+(`/series/<name>/`, intro text in `content/series/<name>/_index.md`) lists
+the parts oldest first with the home list styling: title, description,
+"Part N · date". Templates: `layouts/partials/series-meta.html`,
+`layouts/series/term.html`. Hugo also emits `og:see_also` for the other
+parts.
+
 **Post list and tag pages.** Title and date per line, grouped by year.
 
 **Navigation.** Site name (links home) and three or four text links. No icons

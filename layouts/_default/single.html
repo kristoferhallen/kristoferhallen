@@ -10,11 +10,13 @@
                     <time datetime="{{ $ISO_time }}" itemprop="datePublished"> {{ . | time.Format ":date_medium" }} </time>
                 </div>
                 {{ end }}
+                {{- partial "series-meta.html" (dict "page" . "place" "top") }}
             </header>
             {{ partial "toc.html" .}}
             <div class="page-content">
                 {{ .Content }}
             </div>
+            {{- partial "series-meta.html" (dict "page" . "place" "bottom") }}
         </article>
         {{- if eq .Section "posts" }}{{ partial "author-note.html" . }}{{ end }}
         {{- partial "comments.html" . -}}

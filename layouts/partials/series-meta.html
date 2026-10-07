@@ -1,0 +1,17 @@
+{{- /* "Part N of the X series" under the post date, and a link to the next
+       part after the post. Context: dict "page" . "place" "top"|"bottom". */ -}}
+{{- $page := .page }}
+{{- with $page.GetTerms "series" }}
+{{- $term := index . 0 }}
+{{- $parts := $term.Pages.ByDate }}
+{{- $n := 0 }}{{ $next := false }}
+{{- range $i, $p := $parts }}
+  {{- if eq $p $page }}{{ $n = add $i 1 }}{{ end }}
+  {{- if and (gt $n 0) (eq $i $n) }}{{ $next = $p }}{{ end }}
+{{- end }}
+{{- if eq $.place "top" }}
+<div class="series-meta">Part {{ $n }} of the <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a> series</div>
+{{- else if $next }}
+<p class="series-next">Next in the series: <a href="{{ $next.RelPermalink }}">{{ $next.Title }}</a></p>
+{{- end }}
+{{- end }}

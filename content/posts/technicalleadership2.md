@@ -5,6 +5,7 @@ images: ["/technicalleaderintersection.png"]
 date: 2026-03-18
 draft: false
 tags: ["leadership", "technical leader"]
+series: ["Technical leadership"]
 ---
 
 This is the second article in a series about technical readership that I write together with [Johanna Wallén Axehill

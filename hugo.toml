@@ -24,6 +24,12 @@ theme = "hugo-blog-awesome"
     #path = "github.com/hugo-sid/hugo-blog-awesome"
     #disable = false
 
+# Tags plus series: a post joins a series with `series: ["Name"]` in its
+# frontmatter; the series page lists the parts in date order.
+[taxonomies]
+  tag = "tags"
+  series = "series"
+
 [services]
 # To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
 # To disable Google Analytics, simply leave the field empty or remove the next two lines

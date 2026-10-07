@@ -4,6 +4,7 @@ description: "Technical leaders hold products together across organisation, proj
 date: 2026-02-22
 draft: false
 tags: ["leadership", "technical leader"]
+series: ["Technical leadership"]
 ---
 
 This is the first article in a series about technical readership that I write together with [Johanna Wallén Axehill

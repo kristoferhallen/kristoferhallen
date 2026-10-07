@@ -347,3 +347,53 @@ a:hover {
 .intro-links {
   margin-top: 1em;
 }
+
+// ---------------------------------------------------------------------------
+// Series (DESIGN.md section 4): "Part N of the X series" under the date, a
+// "Next in the series" line after the post, and the series page listing the
+// parts in reading order with the home list styling.
+// ---------------------------------------------------------------------------
+
+.series-meta {
+  font-size: .85em;
+  margin: .3em 0 0;
+  color: $muted;
+
+  @include both-dark-modes {
+    color: $dark-muted;
+  }
+}
+
+.series-next {
+  margin-top: 2.5em;
+}
+
+.series-parts {
+  list-style: none;
+  margin: 2em 0 0;
+  padding: 0;
+
+  .home-post-title {
+    font-size: 1em;
+    margin: 0 0 .35rem;
+  }
+
+  // Same title colour as the home list (.page-content a would win otherwise).
+  .home-post-title a {
+    color: $black;
+
+    @include both-dark-modes {
+      color: $dark-white;
+    }
+  }
+
+  .home-post-item {
+    @include both-dark-modes {
+      border-color: $dark-light;
+    }
+  }
+
+  p {
+    margin: 0 0 .35rem;
+  }
+}

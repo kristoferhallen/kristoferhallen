@@ -1,0 +1,21 @@
+{{- define "main" -}}
+<div class="wrapper list-page series-page">
+    <header class="header">
+        <h1 class="header-title">{{ .Title }}</h1>
+    </header>
+    <main class="page-content" aria-label="Content">
+        {{ .Content }}
+        <ol class="series-parts">
+            {{- range $i, $p := .Pages.ByDate }}
+            <li class="home-post-item">
+                <h2 class="home-post-title"><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h2>
+                {{- with $p.Description }}
+                <p class="home-post-excerpt">{{ . }}</p>
+                {{- end }}
+                <p class="home-post-date">Part {{ add $i 1 }} · <time datetime="{{ $p.Date.Format "2006-01-02" }}">{{ $p.Date | time.Format ":date_medium" }}</time></p>
+            </li>
+            {{- end }}
+        </ol>
+    </main>
+</div>
+{{- end -}}
