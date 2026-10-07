@@ -10,7 +10,7 @@ When assessing how to measure the effectiveness of a development organization, o
 
 While we didn’t go into detailed definitions, we considered lead time as the duration from identifying a need to having a solution deployed and in use. I wanted to explore what factors influence this measurement and what we should focus on if we want to improve it.
 
-# Factors That Impact Lead Time from Need to Deployment
+## Factors That Impact Lead Time from Need to Deployment
 
 Several elements affect how quickly a change moves from concept to reality. It might be so that this list is a 
 
@@ -22,11 +22,11 @@ Several elements affect how quickly a change moves from concept to reality. It m
 * Software architecture. How easy is it to modify the system? A well-structured codebase allows for faster, safer changes, while tightly coupled dependencies can slow everything down.
 * Testing capabilities. Robust automated testing accelerates development by quickly validating that changes haven’t introduced new issues.
 
-# Large vs. Small Companies: Different Challenges
+## Large vs. Small Companies: Different Challenges
 
 This list may be more relevant in a larger company, where decision-making involves multiple stakeholders and processes. In a smaller company, many of these factors are more straightforward—decisions are concrete, involve fewer people, and have a smaller scope. If you only have one development team and a limited budget, prioritization happens naturally, and compliance processes may be minimal.
 
-# Beyond the Technical Aspects
+## Beyond the Technical Aspects
 
 It might be tempting to view lead time purely as a technical challenge, but organizational agility is just as important. Technology (architecture, testing) is only one piece of the puzzle. The ability to make decisions, allocate resources, and navigate external constraints plays a crucial role in how quickly changes can be delivered.
 

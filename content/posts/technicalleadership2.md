@@ -8,14 +8,14 @@ tags: ["leadership", "technical leader"]
 series: ["Technical leadership"]
 ---
 
-This is the second article in a series about technical readership that I write together with [Johanna Wallén Axehill
+This is the second article in a series about technical leadership that I write together with [Johanna Wallén Axehill
 ](https://www.linkedin.com/in/johanna-axehill-61584514a/)
 
 In [part #1]({{< relref "technicalleadership.md" >}}) of our technical leadership article series, we described how technical leaders often go unseen in most tech organisations, despite being vital to product success, team growth, long-term technology development and product health. The lack of formal recognition and support traps these essential contributors in organisational blind spots — and that needs to change.
 
 There are many views of what a technical leader is. Yet, it is not easy to be defined. To understand the role, let us start with a concrete example: the NASA chief engineer.
 
-# A Technical Leader Example: The NASA Chief Engineer
+## A Technical Leader Example: The NASA Chief Engineer
 
 At NASA, the chief engineer is a distinct and powerful role. The role serves as the technical conscience of the agency, ensuring that engineering rigor and safety standards are maintained across NASA's challenging aerospace projects. The chief engineers oversee technical integrity across all NASA programs and missions, establish engineering standards, processes and best practices, review major technical decisions and serve as the final technical arbiter on critical engineering issues.
 
@@ -26,7 +26,7 @@ In your organisation, you may not be launching space shuttles, but if you develo
 
 Besides chief engineers, other types of technical leaders could be software architect, principal developer, expert, technical manager, product manager or integration manager. Some of these roles are based on formal leadership, while others are more relying on informal leadership style and leading by influencing other people.
 
-# The Technical Leader Acting at the Intersection
+## The Technical Leader Acting at the Intersection
 
 ![Three sigma book cover](/technicalleaderintersection.png)
 As we see it, the technical leader operates at an interesting intersection — between technology, project organisation, and line management. The reason this role sometimes is hard to define could be that the technical leader sits at this constantly changing intersection. Handling the intersection itself is about balancing different perspectives (time, money, technology, people, knowledge…) and finding a sound way forward, although not everything is clarified yet. The technical leader needs to…
@@ -43,11 +43,11 @@ The technical leader might be broad and T-shaped, bridging the gaps between diff
 * Leading the technology through the people
 * Connecting to other people through the technology
 
-# Next Step
+## Next Step
 
 Now we have defined the role of the technical leader and its demands, but how to formalise it? In our next part #3, we will describe The Technical Leadership Deal as a model for establishing these leaders in an organisation and creating a foundation for their growth.
 
-# Learn More
+## Learn More
 
 * Three Sigma Leadership, or the Way of the Chief Engineer, by Steven Hirshorn, 2019. Free download from NASA webpage https://www.nasa.gov/ebooks/three-sigma-leadership/ 
 * IDEO CEO Tim Brown: T-shaped Stars: The Backbone of IDEO’s collaborative Culture, M. T. Hansen, Chief Executive.net, 2010, available at https://chiefexecutive.net/ideo-ceo-tim-brown-t-shaped-stars-the-backbone-of-ideoaes-collaborative-culture__trashed/

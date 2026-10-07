@@ -12,7 +12,7 @@ An Electric Monk is a labour-saving device, like a dishwasher or a video recorde
 
 The one in the book is broken. It has developed a fault and started believing things more or less at random — "It was even beginning to believe things they’d have difficulty believing in Salt Lake City".
 
-# The Monk on your team
+## The Monk on your team
 
 Your CI pipeline is an Electric Monk. So is your coverage gate and your green checkmark. You built them so you would not have to personally believe, every time, that the code is fine. Most days this is good. It is the whole point. You cannot re-derive trust in the build system every morning.
 
@@ -20,6 +20,6 @@ The problem is the same as in the book. When the Monk breaks, it keeps believing
 
 The cost of the broken Monk is not the failed deploy. It is the six weeks where everyone shipped on faith and the faith was misplaced. You do not find that on an incident report. You find it in the next quarter.
 
-# What to check
+## What to check
 
 Check what your Monks actually believe, once in a while. Not whether they are green. What they check when they go green. A pipeline you never interrogate is not protecting you. It is just a very confident device, believing things on your behalf, and you have forgotten to ask if it is right.

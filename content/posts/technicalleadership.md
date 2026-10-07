@@ -7,11 +7,11 @@ tags: ["leadership", "technical leader"]
 series: ["Technical leadership"]
 ---
 
-This is the first article in a series about technical readership that I write together with [Johanna Wallén Axehill
+This is the first article in a series about technical leadership that I write together with [Johanna Wallén Axehill
 ](https://www.linkedin.com/in/johanna-axehill-61584514a/)
 
 In most tech organisations, you'll find project managers coordinating deliverables and line managers with focus on people and organisation. But there's a third, often overlooked leadership role that is critical to long-term success: the technical leader.
-# The Hidden Problem
+## The Hidden Problem
 Many companies have brilliant engineers who can architect complex systems, mentor junior developers, and make crucial technical decisions that impact the entire product roadmap. Yet when HR looks at the organisation chart, these individuals are invisible. They are not line managers, so they don't appear in leadership frameworks and leadership development programs. They are also not project managers, so their contributions go unrecognised in terms of the project. Instead, they might only be entitled senior employees/engineers. But, they are much more than that - in reality they are technical leaders!
 
 If these people are not seen and recognised it creates cascading problems:
@@ -22,7 +22,7 @@ For career development: HR misses these crucial roles in career progression plan
 
 For individual growth: These technical leaders often lead by informal impact through other people and decision-making forums. They struggle to systematically develop junior engineers because they lack the formal authority and structured processes that come with recognised leadership positions. In reality it takes a loooong time to build a good technical leader, but often the organisation lacks invested time, effort and understanding to achieve this systematically.
 
-# The Critical Bridge
+## The Critical Bridge
 Technical leaders serve as the crucial bridge between the organisation, project and product. We dare to say with emphasis that they are a necessity for a company developing complex products!
 The technical leaders:
 * Translate business requirements into technical architecture
@@ -32,7 +32,7 @@ The technical leaders:
 * Maintain technical standards and develop best practices
 Yet, most organisations treat this vital role as an afterthought, taking it for granted, leaving these leaders to operate in the shadows without proper support, recognition, training or career development.
 
-# What’s next
+## What’s next
 
 When we fail to recognise and develop these leaders, we don't just lose individual contributors; we lose the technical coherence that makes great products possible. It's time to bring technical leaders out of the shadows and give them the recognition, support, and career development they deserve! Your organisation's technical future depends on it. 
 However, we have seen that companies often have no clear terms for them. There is often no collective image within the organisation of who they are as a group, and what function they have for the product and the capabilities of the company. In upcoming [part #2]({{< relref "technicalleadership2.md" >}}) of this article series we will dig deeper into what technical leadership is, to enable a common understanding of the role. 

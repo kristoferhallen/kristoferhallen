@@ -9,10 +9,10 @@ tags: ["software development", "product manager"]
 I'm starting a new role as a product manager and want to understand the role better. Here is a first summary of what seems to be the industry standard view. 
 
 
-# Core Purpose
+## Core Purpose
 A Software Product Manager's fundamental job is to ensure the right product gets built for the right customers at the right time. They own the "what" and "why" while engineering teams handle the "how.". In the ["intersection of business, technology, and user experience"](https://www.atlassian.com/agile/product-management/product-manager)
 
-# Key Responsibilities
+## Key Responsibilities
 
 * Define Product Vision & Strategy - Set long-term direction and connect product goals to business objectives
 * Understand Customers - Conduct research, interviews, and analysis to deeply understand user needs and pain points

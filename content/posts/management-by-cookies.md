@@ -10,13 +10,13 @@ tags: ["leadership", "management", "teams", "humor", "cookies"]
 I like to bake, so I brought cookies to a workshop. By lunch we had defined a new leadership style: Management by Cookies.
 
 
-# "Management by Cookies" (MBC)
+## "Management by Cookies" (MBC)
 
 MBC is a simple, yet profound philosophy built on the principle that small acts of kindness can forge strong, resilient teams.
 
  
 
-# MBC is based on the "Cookie Hypothesis"
+## MBC is based on the "Cookie Hypothesis"
 
 
 In the complex ecosystem of organizational dynamics, we often seek to identify the core driver of team cohesion and productivity. While traditional models focus on charismatic leadership, strategic vision, or competitive compensation, the Cookie Hypothesis proposes a simpler, more fundamental truth: <b>people follow the one with the cookies.</b>
