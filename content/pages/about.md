@@ -8,7 +8,7 @@ I am a Strategic Product Manager for CI/CD and release at [Ericsson](https://www
 
 This blog is where I test ideas and sharpen my thinking about software development, technical leadership, and engineering strategy. I also collect Sherlock Holmes books — find my library [here](https://sherlock.kristoferhallen.com).
 
-Talk to me on [Bluesky](https://bsky.app/profile/kristoferhallen.bsky.social) or [LinkedIn](https://www.linkedin.com/in/kristoferhallen/).
+Talk to me on [Bluesky](https://bsky.app/profile/kristoferhallen.com) or [LinkedIn](https://www.linkedin.com/in/kristoferhallen/).
 
 
 ## Past talks

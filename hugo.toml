@@ -104,7 +104,7 @@ theme = "hugo-blog-awesome"
   name = "Kristofer Hallén"
   tagline = "Strategic Product Manager for CI/CD · Ericsson"
   description = "I write about software development, technical leadership, and engineering strategy — mostly from a CI/CD and platform perspective. These posts are how I test ideas and sharpen my thinking."
-  contactinfo = "Talk to me on [Bluesky](https://bsky.app/profile/kristoferhallen.bsky.social) or [LinkedIn](https://www.linkedin.com/in/kristoferhallen/)."
+  contactinfo = "Talk to me on [Bluesky](https://bsky.app/profile/kristoferhallen.com) or [LinkedIn](https://www.linkedin.com/in/kristoferhallen/)."
   # Home page introduction and the note after each post (DESIGN.md section 4).
   lead = "I write about technical leadership, product management and how large organisations build and deliver software."
   proof = "Co-creator of the [Eiffel protocol](https://eiffel-community.github.io/) for CI/CD events. Recent talks at EMEASEC 2026, Stockholm Tech Show and The Future of Software."
@@ -129,7 +129,7 @@ theme = "hugo-blog-awesome"
 
 [[params.socialIcons]]
 name = "bluesky"
-url = "https://bsky.app/profile/kristoferhallen.bsky.social"
+url = "https://bsky.app/profile/kristoferhallen.com"
 
 [[params.socialIcons]]
 name = "linkedin"
