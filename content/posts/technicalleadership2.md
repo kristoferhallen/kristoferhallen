@@ -45,7 +45,7 @@ The technical leader might be broad and T-shaped, bridging the gaps between diff
 
 ## Next Step
 
-Now we have defined the role of the technical leader and its demands, but how to formalise it? In our next part #3, we will describe The Technical Leadership Deal as a model for establishing these leaders in an organisation and creating a foundation for their growth.
+Now we have defined the role of the technical leader and its demands, but how to formalise it? In our next [part #3]({{< relref "technicalleadership3.md" >}}), we will describe The Technical Leadership Deal as a model for establishing these leaders in an organisation and creating a foundation for their growth.
 
 ## Learn More
 
