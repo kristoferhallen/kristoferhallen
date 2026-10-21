@@ -34,3 +34,20 @@ RedirectMatch 403 ^/(?:wp-admin|wp-content|wp-includes|wp-login\.php|wp-cron\.ph
 RedirectMatch 403 ^//.*
 # .env-skannrar
 RedirectMatch 403 ^/\.env$
+# Nyare skannrar (loggen okt 2026): molnnycklar, byggfiler, API- och adminprober.
+# Ingen riktig sökväg på sajten börjar så (kontrollerat mot bygget 2026-10-21;
+# webbmanifestet heter /site.webmanifest, inte manifest.json).
+RedirectMatch 403 ^/(?:gcp-key|webpack-stats)\.json$
+RedirectMatch 403 ^/(?:static/)?manifest\.json$
+RedirectMatch 403 ^/(?:v1/|api/)?graphql/?$
+RedirectMatch 403 ^/__vite_rsc_findSourceMapURL$
+RedirectMatch 403 ^/(?:dashboard|console|admin|login|userfiles)(/|$)
+RedirectMatch 403 ^/api/(?:designer|templates/preview)(/|$)
+RedirectMatch 403 ^/read-document/?$
+
+# --- Chrome Private Prefetch Proxy frågar efter /.well-known/traffic-advice ---
+# Filen finns i static/.well-known/ ("[]" = inga begränsningar). Rätt
+# Content-Type krävs, annars ignorerar Chrome den.
+<Files "traffic-advice">
+  ForceType application/trafficadvice+json
+</Files>
