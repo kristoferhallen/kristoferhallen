@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 {{/*  Home page gets the site name alone, to avoid "Kristofer Hallén | Kristofer Hallén"  */}}
-{{- $title := printf "%s | %s" .Title .Site.Title -}}
+{{- $title := printf "%s | %s" (.Params.seo_title | default .Title) .Site.Title -}}
 {{- if .IsHome -}}
   {{- $title = .Site.Params.sitename | default .Site.Title -}}
 {{- end -}}
@@ -17,6 +17,11 @@
 {{- $description = replaceRE `\s+` " " $description | strings.TrimSpace | truncate 300 -}}
 
 <meta name="description" content="{{ $description }}">
+
+{{/*  Tag pages are thin lists: keep them out of Google, but let it follow the links  */}}
+{{- if eq .Type "tags" }}
+<meta name="robots" content="noindex, follow">
+{{- end }}
 <meta itemprop="description" content="{{ $description }}" />
 
 <meta name="language" content="{{ .Site.Language.Locale }}" />
