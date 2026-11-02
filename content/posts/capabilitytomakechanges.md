@@ -4,6 +4,7 @@ description: "Lead time for changes, from identified need to deployed solution: 
 date: 2025-02-24
 draft: false
 tags: ["speed of change", "measurements"]
+related: ["productmeasurements", "zombiemetrics", "stockholmtechshow2026", "myprinciples"]
 ---
 
 When assessing how to measure the effectiveness of a development organization, one useful metric is "how quickly can we make a change?" This idea is not new—DORA metrics, for example, include "Lead Time for Changes."
@@ -30,4 +31,4 @@ This list may be more relevant in a larger company, where decision-making involv
 
 It might be tempting to view lead time purely as a technical challenge, but organizational agility is just as important. Technology (architecture, testing) is only one piece of the puzzle. The ability to make decisions, allocate resources, and navigate external constraints plays a crucial role in how quickly changes can be delivered.
 
-Improving lead time isn’t just about optimizing code—it’s about streamlining the entire process from idea to impact.
+Improving lead time isn’t just about optimizing code—it’s about [streamlining the entire process from idea to impact]({{< relref "stockholmtechshow2026.md" >}}).

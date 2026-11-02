@@ -17,6 +17,7 @@
                 {{ .Content }}
             </div>
             {{- partial "series-meta.html" (dict "page" . "place" "bottom") }}
+            {{- if eq .Section "posts" }}{{ partial "related-posts.html" . }}{{ end }}
         </article>
         {{- if eq .Section "posts" }}{{ partial "author-note.html" . }}{{ end }}
         {{- partial "comments.html" . -}}

@@ -4,6 +4,7 @@ description: "Managing a tool portfolio: a golden path, not a golden cage. Own t
 date: 2025-12-14
 draft: false
 tags: ["software development", "tools"]
+related: ["whentochange", "migrations", "idpprinciples", "chestertonsfence", "stockholmtechshow2026"]
 ---
 
 I had a talk at the [Devlin2025](https://events.responsive.se/devlin2025/konferensdagen-devlin2025?view=Events&id=162&task=civicrm/event/info&reset=1) conference about managing your software development tools. Here is the short version.
@@ -24,7 +25,7 @@ E.g. regularly update a technology radar.
 There will always be dependencies but when you decide about integrations consider the cost of change.
 
 ## Focus on Total Cost of Ownership (TCO)
-When evaluating tools think about the total cost of ownership including e.g. migration and competence build up.
+When evaluating tools think about the total cost of ownership including e.g. [migration]({{< relref "migrations.md" >}}) and competence build up.
 
 ## Apply the '2x or 10x' Rule for Tool Replacement
-Have a high threshold. It is always more expensive to change than you think and the value add is many times lower than you think. 
+[Have a high threshold]({{< relref "whentochange.md" >}}). It is always more expensive to change than you think and the value add is many times lower than you think. 

@@ -4,6 +4,7 @@ description: "Reading, talks and newsletters feel like progress, but inspiration
 date: 2026-02-09
 draft: false
 tags: ["learning", "doing"]
+related: ["modernsoftwareengineering", "whyiwrite2", "presentingatconferences", "aiexperiments"]
 ---
 
 There's no shortage of good writing about how to build software, and it's great to learn, to not get stuck in your current world view. Newsletters, conference talks, blog posts. I read a lot. I get inspired.
@@ -14,7 +15,7 @@ The ideas sit there. I have thoughts, mental models, half-formed plans. But they
 Let's call this Inspiration Debt. Every idea you consume but never apply adds to a growing backlog of "things I should try." And just like technical debt, at some point the weight of it becomes counterproductive. You spend more time thinking about what you could do than actually doing anything.
 
 The dangerous part is that it feels productive. It feels like you're getting better. But if none of it changes what you do on Monday morning, you're just collecting inspiration for its own sake.
-So how do you pay down inspiration debt? By turning ideas into experiments.
+So how do you pay down inspiration debt? By [turning ideas into experiments]({{< relref "modernsoftwareengineering.md" >}}).
 
 I don't think there's a universal answer, but here's what I've started doing to turn inspiration into something useful.
 Start from your actual problems. Not from what's interesting to read about — from what you actually need to solve. What are the tasks in front of you? That context is your filter. It tells you which ideas are relevant right now and which ones are just interesting noise.

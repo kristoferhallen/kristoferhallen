@@ -4,6 +4,7 @@ description: "What DevOps looks like for large-scale hardware-software products:
 date: 2026-05-29
 draft: false
 tags: ["conference", "trends", "stockholm tech show"]
+related: ["eventsincicd", "managingsoftwaredevelopmenttools", "thefutureofsoftware2025", "capabilitytomakechanges", "processisnotenough", "presentingatconferences"]
 ---
 
 I had a talk at [Stockholm Tech Show](https://stockholmtechshow.se/talarprogram-2026/?selectedRooms=81). I talked about s DevOps journey in large scale Software - Hardware systems. As usual Ericsson context but applicable for many industries with large scale projects that combine software and hardware. I focused on three journeys to get the DevOps benefits of fast feedback loops between dev and ops. Here is a summary of the talk.
@@ -31,9 +32,9 @@ Local optimization gave way to system thinking.
 
 ### Build vs. Buy vs. Own
 
-Early on, nothing off‑the‑shelf could meet traceability needs across hardware and software, which led to significant in‑house tooling (including event‑driven CI/CD frameworks). As the industry matured, the question changed from “Can we build this?” to “Should we?”—and eventually to “Should we still own this?”.
+Early on, nothing off‑the‑shelf could meet traceability needs across hardware and software, which led to significant in‑house tooling (including [event‑driven CI/CD frameworks]({{< relref "eventsincicd.md" >}})). As the industry matured, the question changed from “Can we build this?” to “Should we?”—and eventually to “Should we still own this?”.
 
-A key takeaway: shared ownership is the same as no ownership—it just fails more slowly. Tooling needs clear, named owners with real authority. 
+A key takeaway: shared ownership is the same as no ownership—it just fails more slowly. [Tooling needs clear, named owners]({{< relref "managingsoftwaredevelopmenttools.md" >}}) with real authority. 
 
 ### Responsibility: From Components to Systems
 

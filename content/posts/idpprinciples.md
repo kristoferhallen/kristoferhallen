@@ -4,6 +4,7 @@ description: "Principles for internal development platforms: solve user problems
 date: 2025-01-03
 draft: false
 tags: ["idp", "platform", "principles"]
+related: ["productmeasurements", "processisnotenough", "managingsoftwaredevelopmenttools", "myprinciples"]
 ---
 Reflections on internal development platform (IDP) development. 
 
@@ -13,4 +14,4 @@ There is a risk in focusing too much on building the "perfect" tool while neglec
 
 ## Delivering to end customer is your responsibility
 
-When the development platform fails to support customer delivery who takes ownership? If your IDP team doesn’t step up, it signals a significant problem. Your team needs to be the reliable partner everyone turns to when pipelines break or development environments fail. Deployment and operations are not someone else’s problem. If you treat them as such, you risk becoming expendable to external suppliers. Take responsibility and ensure your platform is the best way to get product to customer.
+When the development platform fails to support customer delivery [who takes ownership]({{< relref "processisnotenough.md" >}})? If your IDP team doesn’t step up, it signals a significant problem. Your team needs to be the reliable partner everyone turns to when pipelines break or development environments fail. Deployment and operations are not someone else’s problem. If you treat them as such, you risk becoming expendable to external suppliers. Take responsibility and ensure your platform is the best way to get product to customer.

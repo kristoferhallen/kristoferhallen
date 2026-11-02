@@ -4,6 +4,7 @@ description: "Some legacy states in software systems can't be explained or undon
 date: 2026-10-21
 draft: false
 tags: ["leadership", "softwaredevelopment", "Dirk Gently", "technical debt"]
+related: ["softwaredevelopmentaccordingtodirkgently", "chestertonsfence", "migrations", "whentochange", "whatissoftwarearchitecture"]
 ---
 
 Douglas Adams' Dirk Gently's Holistic Detective Agency has a running joke that is really a working theory: everything is connected to everything else, so any thread you pull will eventually lead you to the answer. Most of the time this is used as a punchline. Once, it explains a sofa.

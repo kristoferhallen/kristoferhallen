@@ -1,0 +1,37 @@
+{{- /* Up to three posts to read next, after the post and before the author
+       note: other parts of the post's series first, then the hand-picked
+       `related` list in front matter (slugs in content/posts/). Skips the
+       part shown in "Next in the series", posts already linked in the text,
+       and posts that are not published (drafts, future dates). */ -}}
+{{- $page := . }}
+{{- $candidates := slice }}
+{{- $next := false }}
+{{- with $page.GetTerms "series" }}
+  {{- $parts := (index . 0).Pages.ByDate }}
+  {{- $n := 0 }}
+  {{- range $i, $p := $parts }}
+    {{- if eq $p $page }}{{ $n = add $i 1 }}{{ end }}
+    {{- if and (gt $n 0) (eq $i $n) }}{{ $next = $p }}{{ end }}
+  {{- end }}
+  {{- range $parts }}{{ $candidates = $candidates | append . }}{{ end }}
+{{- end }}
+{{- range $page.Params.related }}
+  {{- with site.GetPage (printf "/posts/%s" .) }}{{ $candidates = $candidates | append . }}{{ end }}
+{{- end }}
+{{- $picks := slice }}
+{{- range $candidates }}
+  {{- $linked := in $page.Content (printf "%s\"" .RelPermalink) }}
+  {{- if and (ne . $page) (ne . $next) (not $linked) (not (in $picks .)) (lt (len $picks) 3) }}
+    {{- $picks = $picks | append . }}
+  {{- end }}
+{{- end }}
+{{- with $picks }}
+<nav class="related" aria-labelledby="related-title">
+    <h2 class="related-title" id="related-title">More to read</h2>
+    <ul>
+        {{- range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{- end }}
+    </ul>
+</nav>
+{{- end }}

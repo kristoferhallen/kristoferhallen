@@ -4,6 +4,7 @@ description: "Technical leaders hold products together across organisation, proj
 date: 2026-02-22
 draft: false
 tags: ["leadership", "technical leader"]
+related: ["emeasec2026", "technicalleaderadvice", "whatissoftwarearchitecture"]
 series: ["Technical leadership"]
 ---
 

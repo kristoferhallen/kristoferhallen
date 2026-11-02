@@ -4,11 +4,12 @@ description: "An AI review board of six personas that gives several perspectives
 date: 2026-09-23
 draft: false
 tags: ["AI", "review"]
+related: ["aiexperiments", "pipelineasprompt", "whatissoftwarearchitecture", "inspirationdept"]
 ---
 
 AI is good at reviewing not only code but also documents, tickets, project proposals, business cases and more. You can create review skills that define how you want a review to be done. But I realized that it only gives you one voice, one perspective.
 
-I remembered [a post where someone had set up a personal board of directors with GenAI](https://sloanreview.mit.edu/article/how-i-built-a-personal-board-of-directors-with-genai/), so I built a skill with a board of six "people" who review what I send them. Each one is modeled on how I read the work of someone I think gives good insights:
+I remembered [a post where someone had set up a personal board of directors with GenAI](https://sloanreview.mit.edu/article/how-i-built-a-personal-board-of-directors-with-genai/), so [I built a skill]({{< relref "aiexperiments.md" >}}) with a board of six "people" who review what I send them. Each one is modeled on how I read the work of someone I think gives good insights:
 
 - **The simplifier** (Steve Jobs) asks what we can remove.
 - **The operator** (Andy Grove) asks for the metric and the deadline.

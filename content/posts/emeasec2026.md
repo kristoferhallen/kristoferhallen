@@ -4,6 +4,7 @@ description: "Reflections from presenting the paper Change: A Structured Method 
 date: 2026-09-02
 draft: false
 tags: ["conference", "systems engineering", "technical leadership", "EMEASEC"]
+related: ["technicalleadership3", "technicalleadership", "presentingatconferences", "stockholmtechshow2026"]
 ---
 
 I had a talk at [EMEASEC 2026](https://events.incose.org/event/emeasec26/) in Linköping, Sweden together with [Johanna Wallén Axehill

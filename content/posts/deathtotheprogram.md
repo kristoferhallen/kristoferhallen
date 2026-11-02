@@ -4,6 +4,7 @@ description: "Why never-ending programs lose focus on delivery and celebration, 
 date: 2024-12-08
 draft: false
 tags: ["program", "project", "rest", "celebrate"]
+related: ["myprinciples", "processisnotenough", "modernsoftwareengineering"]
 ---
 
 Maybe a niche thing to reflect on, but some software companies went from projects to programs. Why start projects all the time, let's just define a never ending project and call it program. In many cases I don't think it works very well. 

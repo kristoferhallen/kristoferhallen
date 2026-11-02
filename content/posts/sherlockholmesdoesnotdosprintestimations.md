@@ -4,6 +4,7 @@ description: "Holmes commits to a method and works against real deadlines, not p
 date: 2026-06-21
 draft: false
 tags: ["sherlock holmes", "estimations", "deadlines"]
+related: ["deathtotheprogram", "modernsoftwareengineering", "softwaredevelopmentaccordingtodirkgently", "poclength"]
 series: ["Sherlock Holmes"]
 ---
 

@@ -4,6 +4,7 @@ description: "Processes don't care about outcomes, people do. A 'trust the proce
 date: 2025-06-08
 draft: false
 tags: ["change", "tools" ]
+related: ["technicalleaderadvice", "idpprinciples", "deathtotheprogram", "zombiemetrics"]
 ---
 
 "If we only follow the process we can solve any problem!"
