@@ -1,6 +1,7 @@
 ---
 title: 'How long is a Poc?'
-description: "How long should a software proof of concept take? An overview of what different sources recommend and why a short timebox matters."
+seo_title: "What is a PoC in software, and how long should it take?"
+description: "A proof of concept (PoC) in software is a short test of whether an idea is feasible. What different sources say about how long a PoC should take: days, at most a few weeks."
 images: ["/poclength.png"]
 date: 2024-10-25
 draft: false

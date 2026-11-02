@@ -23,6 +23,11 @@ Options -Indexes
 # --- 301: alternativt sitemap-namn som crawlers letar efter ---
 Redirect 301 /sitemap_index.xml /sitemap.xml
 
+# --- 410: RSS-flöden för taggar, serier och sidor som inte längre byggs ---
+# FTP-deployen raderar aldrig, så de gamla filerna ligger kvar på servern.
+RedirectMatch 410 ^/(?:tags|series)(?:/[^/]+)?/index\.xml$
+RedirectMatch 410 ^/pages/index\.xml$
+
 # --- 301: bytta post-slugs ---
 RedirectMatch 301 ^/posts/mbc/?$ /posts/management-by-cookies/
 

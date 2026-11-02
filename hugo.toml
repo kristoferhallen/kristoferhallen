@@ -26,6 +26,14 @@ theme = "hugo-blog-awesome"
 
 # Tags plus series: a post joins a series with `series: ["Name"]` in its
 # frontmatter; the series page lists the parts in date order.
+# RSS only for the home page and the posts list. Feeds for every tag,
+# series and section were mostly what Google spent its crawl time on.
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
 [taxonomies]
   tag = "tags"
   series = "series"
