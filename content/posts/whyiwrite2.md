@@ -4,6 +4,7 @@ description: "Revisiting why I blog: writing for myself first, and using the blo
 date: 2025-02-16
 draft: false
 tags: ["software development", "blogging"]
+related: ["whyiwrite", "inspirationdept", "presentingatconferences", "aiexperiments"]
 ---
 
 When I started this blog I said that I want to do it mostly [for myself]({{< relref "whyiwrite.md" >}}). Andy Hawthorne says something similar, [Why Blog If Nobody Reads It?](https://andysblog.uk/why-blog-if-nobody-reads-it). 

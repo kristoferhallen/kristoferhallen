@@ -5,6 +5,7 @@ summary: "A wry leadership theory: people follow the one with the cookies, becau
 date: 2025-09-21
 draft: false
 tags: ["leadership", "management", "teams", "humor", "cookies"]
+related: ["technicalleaderadvice", "technicalleadership", "processisnotenough"]
 ---
 
 I like to bake, so I brought cookies to a workshop. By lunch we had defined a new leadership style: Management by Cookies.

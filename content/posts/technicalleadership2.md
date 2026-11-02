@@ -5,6 +5,7 @@ images: ["/technicalleaderintersection.png"]
 date: 2026-03-18
 draft: false
 tags: ["leadership", "technical leader"]
+related: ["technicalleaderadvice", "emeasec2026", "whatissoftwarearchitecture", "management-by-cookies"]
 series: ["Technical leadership"]
 ---
 
@@ -24,7 +25,7 @@ The strengths of a NASA chief engineer are many. From balancing conflicting requ
 
 In your organisation, you may not be launching space shuttles, but if you develop other types of cyber-physical systems — vehicles, defense grids, or energy infrastructure — you need the same technical conscience.
 
-Besides chief engineers, other types of technical leaders could be software architect, principal developer, expert, technical manager, product manager or integration manager. Some of these roles are based on formal leadership, while others are more relying on informal leadership style and leading by influencing other people.
+Besides chief engineers, other types of technical leaders could be [software architect]({{< relref "whatissoftwarearchitecture.md" >}}), principal developer, expert, technical manager, product manager or integration manager. Some of these roles are based on formal leadership, while others are more relying on informal leadership style and leading by influencing other people.
 
 ## The Technical Leader Acting at the Intersection
 

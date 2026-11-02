@@ -4,6 +4,7 @@ description: "Your CI pipeline is Douglas Adams' Electric Monk: it believes your
 date: 2026-08-05
 draft: false
 tags: ["leadership", "cicd", "Dirk Gently", "testing"]
+related: ["thesofainthestairwell", "deathtothesoftwarepipeline", "pipelineasprompt", "softwaredevelopmentaccordingtosherlock"]
 ---
 
 Have you read Dirk Gently's Holistic Detective Agency? Do it, at least if you like The Hitchhiker's Guide to the Galaxy. Douglas Adams wrote it, and buried inside the detective plot is a small invention that says more about software delivery than most books about software delivery: the Electric Monk.

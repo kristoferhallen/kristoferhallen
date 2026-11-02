@@ -4,11 +4,12 @@ description: "What product managers of internal developer products should measur
 date: 2025-10-13
 draft: false
 tags: ["measurements", "product management"]
+related: ["zombiemetrics", "capabilitytomakechanges", "idpprinciples", "productmanagerbasics", "managingsoftwaredevelopmenttools"]
 ---
 
-Building internal products is a somewhat different challenge compared to a commercial product. Unlike consumer apps chasing  growth, you're serving your colleagues. But that doesn't mean measurement matters less. If anything, it matters more, because every dollar spent on internal tooling needs to justify itself against other company priorities.
+[Building internal products]({{< relref "idpprinciples.md" >}}) is a somewhat different challenge compared to a commercial product. Unlike consumer apps chasing  growth, you're serving your colleagues. But that doesn't mean measurement matters less. If anything, it matters more, because every dollar spent on internal tooling needs to justify itself against other company priorities.
 
-What should I as a product manager measure to know if I am doing the right thing?
+What should I [as a product manager]({{< relref "productmanagerbasics.md" >}}) measure to know if I am doing the right thing?
 
 ## From the User Perspective
 * Adoption and engagement tell you if people find your product valuable. Track active users, feature usage, and track who isn't using your product. 

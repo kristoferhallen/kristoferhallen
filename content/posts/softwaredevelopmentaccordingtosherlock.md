@@ -4,6 +4,7 @@ description: "Lessons for software developers from Sherlock Holmes: partner for 
 date: 2025-03-15
 draft: false
 tags: ["software development", "sherlock holmes"]
+related: ["technicalleaderadvice", "softwaredevelopmentaccordingtodirkgently", "technicalleadership", "whatissoftwarearchitecture"]
 series: ["Sherlock Holmes"]
 ---
 
@@ -33,7 +34,7 @@ Holmes refused to theorize before having sufficient facts. In software developme
 </h2>
 <b>"I'm a consulting detective... When these fellows are at fault they come to me, and I manage to put them on the right scent." — The Sign of Four</b>
 
-As you gain expertise, transition from individual contributor to knowledge sharer. Like Holmes assisting Scotland Yard, your greatest impact often comes from guiding others toward solutions rather than solving every problem yourself. Mentoring junior developers, conducting code reviews, and contributing to documentation multiplies your effectiveness across the entire organization.
+As you gain expertise, transition from individual contributor to knowledge sharer. Like Holmes assisting Scotland Yard, your greatest impact often comes from guiding others toward solutions [rather than solving every problem yourself]({{< relref "technicalleaderadvice.md" >}}). Mentoring junior developers, conducting code reviews, and contributing to documentation multiplies your effectiveness across the entire organization.
 
 <h2>Stay Close to the Code</h2>
 <b>"You know my methods, Watson. There was not one of them which I did not apply to the inquiry. And it ended by my discovering traces, but very different ones from those which I had expected." — The Crooked Man</b>

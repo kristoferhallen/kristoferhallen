@@ -4,6 +4,7 @@ description: "Zombie metrics are KPIs with no owner and no threshold that trigge
 date: 2026-05-15
 draft: false
 tags: ["kpi", "metrics"]
+related: ["productmeasurements", "capabilitytomakechanges", "processisnotenough"]
 ---
 
 Someone in the meeting has an idea: wouldn't it be good if we measured X? Management agrees. It gets implemented. Nobody acts on it.

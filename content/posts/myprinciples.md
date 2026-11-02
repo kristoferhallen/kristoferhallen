@@ -4,6 +4,7 @@ description: "My software development principles and hypotheses: deliver value w
 date: 2025-04-27
 draft: false
 tags: ["principles", "strategy"]
+related: ["deathtotheprogram", "modernsoftwareengineering", "capabilitytomakechanges", "idpprinciples", "engineeringstrategy"]
 ---
 
 This is a test to put into words what I have learned and believe about software development. Will probably change when learn more so this blog post will probably be updated. There are two parts, principles, ideas I consider proven, and hypotheses, ideas that seem reasonable but that I want to test more before considering them proven. 
@@ -44,4 +45,4 @@ Some argue that running central projects gives cost control and alignment. But i
 
 ### Product thinking over project thinking.
 
-Focus on smaller iterative improvements rather than big improvement projects. There are two problems I see with this. One is that in many companies the financial models prefer a project setup. You plan for a longer time, you assign a budget to a wanted outcome. And the other is that you many times have deadlines, external customer commitments. Do those things make product thinking impossible? You could make a roadmap with wanted outcomes, this could be used for a longer term investment decision. Try to focus on measurable improvements instead of specific artifacts (e.g. happier developers instead of “new IDE”). And you can in the team still commit to deadlines, it gives an input to prioritization and a sense of urgency for the team.
+Focus on [smaller iterative improvements]({{< relref "modernsoftwareengineering.md" >}}) rather than big improvement projects. There are two problems I see with this. One is that in many companies the financial models prefer a project setup. You plan for a longer time, you assign a budget to a wanted outcome. And the other is that you many times have deadlines, external customer commitments. Do those things make product thinking impossible? You could make a roadmap with wanted outcomes, this could be used for a longer term investment decision. Try to focus on measurable improvements instead of specific artifacts (e.g. happier developers instead of “new IDE”). And you can in the team still commit to deadlines, it gives an input to prioritization and a sense of urgency for the team.

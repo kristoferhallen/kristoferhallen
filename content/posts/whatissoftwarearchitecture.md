@@ -5,6 +5,7 @@ images: ["/observability.jpg"]
 date: 2024-12-15
 draft: false
 tags: ["architecture", "systemization", "martin fowler"]
+related: ["technicalleadership2", "thesofainthestairwell", "engineeringstrategy", "capabilitytomakechanges"]
 ---
 
 What is software architecture? And is it needed? 

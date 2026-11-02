@@ -4,6 +4,7 @@ description: "Preparing an external conference talk forces you to understand why
 date: 2025-11-03
 draft: false
 tags: ["conference", "trends"]
+related: ["stockholmtechshow2026", "thefutureofsoftware2025", "emeasec2026", "whyiwrite"]
 ---
 
 I used to think conference talks were mainly about giving back to the community or building my own and the company's brand. But I also realized that the process of creating a talk for an external audience forces you to understand your own company better.

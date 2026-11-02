@@ -5,6 +5,7 @@ images: ["/technicalleader3-tools.png"]
 date: 2026-10-17
 draft: false
 tags: ["leadership", "technical leader"]
+related: ["emeasec2026", "technicalleaderadvice", "presentingatconferences", "engineeringstrategy"]
 series: ["Technical leadership"]
 ---
 

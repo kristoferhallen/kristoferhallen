@@ -4,6 +4,7 @@ description: "Why I write this blog: to think better, improve my reasoning, test
 date: 2024-10-06
 draft: false
 tags: ["blogging"]
+related: ["whyiwrite2", "inspirationdept", "presentingatconferences"]
 ---
 Why do I write this blog? 
 

@@ -5,6 +5,7 @@ images: ["/askyourdeveloper.jpg"]
 date: 2025-02-16
 draft: false
 tags: ["software development", "scale up"]
+related: ["idpprinciples", "theunicornproject", "modernsoftwareengineering", "productmeasurements"]
 ---
 
 

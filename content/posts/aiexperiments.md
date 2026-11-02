@@ -4,13 +4,14 @@ description: "A product manager's AI assistant in the terminal that gathers cont
 date: 2026-07-13
 draft: false
 tags: ["ai", "product manager", "experiments"]
+related: ["mypersonalaireviewboard", "pipelineasprompt", "productmanagerbasics", "inspirationdept"]
 ---
 
 I'm a product manager for CI/CD. A lot of my job is meeting triage, budget analysis, stakeholder writing, and keeping track of a portfolio with 50+ items across several teams. Most of that work is gathering context from different systems before I can actually make a call. I wanted an AI to do the gathering and prepare the decision, not make it for me.
 
 ## What I built
 
-A CLI tool I talk to in my terminal. It has access to my calendar, mail, project tracker, budget data and my own notes. It has a handful of defined tasks - plan my week from calendar and mail, parse a budget export, assess a technical proposal, draft in my voice, maintain my notes. Each task is described in a short markdown file: when to use it, what tools it's allowed to touch, what good output looks like.
+A CLI tool I talk to in my terminal. It has access to my calendar, mail, project tracker, budget data and my own notes. It has a handful of defined tasks - plan my week from calendar and mail, parse a budget export, [assess a technical proposal]({{< relref "mypersonalaireviewboard.md" >}}), draft in my voice, maintain my notes. Each task is described in a short markdown file: when to use it, what tools it's allowed to touch, what good output looks like.
 
 
 ## What works

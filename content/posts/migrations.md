@@ -4,6 +4,7 @@ description: "Migrations from A to B often never finish because A is unclear and
 date: 2024-09-28
 draft: false
 tags: ["migration"]
+related: ["whentochange", "chestertonsfence", "managingsoftwaredevelopmenttools"]
 ---
 Migrations, changing technology like tools, libraries or bigger solutions, are sometimes straight forward, clearly define the starting and end point, plan and execute. But in more complex systems I see a tendency for migrations to fail when the plan is to "go from A to B" migration. System could be complex from a code or intergratin size perspective of view but even if it is a smaller technical migration complexity can be added also from organisational point of view, many people involved with different processes and different priorities. In those large system contexts we find problems like:
 

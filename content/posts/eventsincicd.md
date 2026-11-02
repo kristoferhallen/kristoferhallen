@@ -4,6 +4,7 @@ description: "How event-driven CI/CD at Ericsson decouples pipelines, so you can
 date: 2025-03-09
 draft: false
 tags: ["cicd", "events"]
+related: ["stockholmtechshow2026", "deathtothesoftwarepipeline", "managingsoftwaredevelopmenttools", "pipelineasprompt"]
 ---
 
 What do you do when you have a large scale setup of build, integration, test and release pipelines that continuously evolve?

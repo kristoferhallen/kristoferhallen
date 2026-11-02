@@ -371,6 +371,32 @@ a:hover {
   margin-top: 2.5em;
 }
 
+// "More to read" after a post (layouts/partials/related-posts.html): three
+// plain title links, no cards. Sits between "Next in the series" and the
+// author note.
+.related {
+  margin-top: 2.5em;
+
+  .related-title {
+    font-size: 1em;
+    margin: 0 0 .4em;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    margin: 0 0 .4em;
+  }
+}
+
+.series-next + .related {
+  margin-top: 1.5em;
+}
+
 .series-parts {
   list-style: none;
   margin: 2em 0 0;

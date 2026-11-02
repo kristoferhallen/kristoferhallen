@@ -77,7 +77,8 @@ Rules:
 ## 4. Components
 
 **Post page.** Title, date, then the body. No hero image, no share buttons, no
-"related posts" grid. At the end: one short **author note**: who Kristofer is in
+"related posts" grid or cards. After the body: "Next in the series" (if any),
+then "More to read" (see below). At the end: one short **author note**: who Kristofer is in
 one sentence, a link to follow him on LinkedIn, and a link to the About page.
 Same note on every post; it serves following and visible expertise at once.
 
@@ -95,6 +96,17 @@ B (letterhead) were rejected.
 **Author note after posts.** Built 2026-10-04: below a thin `border` rule, one
 first-person sentence from `author.note`, then "Follow me on LinkedIn · Talks
 and publications" in `muted`. Posts only (`layouts/partials/author-note.html`).
+
+**More to read.** Built 2026-11-02 (PRODUCT.md goal 4). After the post and
+"Next in the series", before the author note: a small `h2` "More to read" at
+body size and three plain title links, one per line, no excerpts, no images.
+Picks, in order: other parts of the post's series, then the hand-picked
+`related: ["slug", ...]` list in the post's front matter. Skipped: the part
+already shown as "Next in the series", posts already linked in the text, and
+posts that are not published. No tag-based fallback: without picks there is no
+list. Template `layouts/partials/related-posts.html`. **Decided 2026-11-02:**
+titles only (option A); titles with the description in `muted` (option C) was
+shown and not chosen.
 
 **Talks / About.** Evidence over titles: talks with event, year and a link to
 video or slides, publications, Eiffel. A plain "how to invite me to speak" line
