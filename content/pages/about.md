@@ -11,6 +11,10 @@ This blog is where I test ideas and sharpen my thinking about software developme
 Talk to me on [Bluesky](https://bsky.app/profile/kristoferhallen.com) or [LinkedIn](https://www.linkedin.com/in/kristoferhallen/).
 
 
+## Upcoming talks
+* 26 November 2026 [Devlin2026](https://events.responsive.se/devlin2026)
+
+
 ## Past talks
 * September 2026 [EMEASEC 2026](https://events.incose.org/event/emeasec26/), Linköping, Sweden
 * May 2026 [Stockholm Tech Show](https://stockholmtechshow.se/talarprogram-2026/?selectedRooms=81)
